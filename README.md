@@ -7,7 +7,8 @@
 <p align="center">&#42;&nbsp;&nbsp;&#42;&nbsp;&nbsp;&#42;</p>
 
 **Phil/PA/Pol 324: Law and Morality**\
-Summer 2023, University of Arizona
+Asynchronous Online, University of Arizona\
+Summer 2023, 7 Week 2 (July 3–August 18)
 
 **Instructor**: [Ding](https://www.dingherself.com) (they/she)\
 **Email**: [din@arizona.edu](mailto:din@arizona.edu)\
