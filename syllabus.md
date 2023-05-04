@@ -84,7 +84,7 @@ You should expect to read (at least certain parts of) the text more than once. R
 
 ### Workload
 
-The university requires at least 135 hours of work by each student for a 3-credit course like ours, and so you should expect to spend an average of 19.3 hours every week working on this course. Around a third of these will be so-called “contact hours”—that is, watching recorded lectures, discussing and working with your peers, and discussing with the instructor. The rest will be spent on readings and assignments.
+The university requires at least 135 hours of work by each student for a 3-credit course like ours, and so you should expect to spend an average of 20 hours every week working on this course. Around a third of these will be so-called “contact hours”—that is, watching recorded lectures and discussing with your peers and the instructor. The rest will be spent on readings and assignments.
 
 I understand this is not a trivial time commitment. I also know you are already working incredibly hard by taking a summer course. What I really hope to see, then, is that all of you will be able to get the most out of this class. All the hours you spend reading, thinking, discussing and writing will be rewarding in the end.
 
@@ -120,7 +120,7 @@ Please feel free to leave questions and comments for me as you answer the readin
 
 I will create a reading guide for each module. The reading guides are due each **Sunday by 11:59pm**, and they will together make up 30% of your final grade.
 
-### Class Discussions
+### Case Discussions
 
 For each week we have new course content, we will try to apply what we have learned in class to a recent or current case in ways that build on but go beyond the lectures. The cases are as follows:
 
