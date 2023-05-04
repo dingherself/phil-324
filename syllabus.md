@@ -108,7 +108,7 @@ How to structure the course in a way that is friendly to students with work, fam
 - Case discussions (25%)
 - Take-home final exam (45%)
 
-Both take-home exams must be completed with at least a passing grade in order to pass this course. **An F received on any work due to academic dishonesty is grounds for an F in the course.**
+You must complete the take-home final exam with at least a passing grade in order to pass this course. **An F received on any work due to academic dishonesty is grounds for an F in the course.**
 
 ### Reading Guides
 
