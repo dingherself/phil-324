@@ -1,11 +1,11 @@
 # Phil 324: Law and Morality (Summer 2023)
 
-## Instructor
+## Contact Information
 
-[Ding](https://www.dingherself.com) (my pronouns are [they/them](https://apastyle.apa.org/blog/singular-they) and she/her; I don't use a last name)\
-Email: [din@arizona.edu](mailto:din@arizona.edu)\
-Office: Social Sciences 138\
-Office hours: By appointment, online (video/audio/discord chat) or in person
+**Instructor**: [Ding](https://www.dingherself.com) (my pronouns are [they/them](https://apastyle.apa.org/blog/singular-they) and she/her; I don’t use a last name)\
+**Email**: [din@arizona.edu](mailto:din@arizona.edu)\
+**Office**: Social Sciences 138\
+**Office hours**: By appointment, online (video/audio/discord chat) or in person
 
 ## Course Overview and Objectives
 
@@ -19,7 +19,7 @@ Next, we will examine and critically assess the development of the Court’s gen
 
 Finally, we will try to apply these important insights to two rapidly developing areas of law—reproductive freedom and transgender equality. We will discuss the Court’s cases from *Griswold* to *Roe*, to *Casey*, and now to *Dobbs*, with an emphasis on the connection between due process and equal protection. We will then conclude by considering some leading and ongoing cases challenging transgender discrimination.
 
-## Expected Learning Outcomes
+## Expected Learning Outcomes
 
 My expectations are, at the conclusion of this course, you will be able to
 
@@ -32,13 +32,13 @@ My expectations are, at the conclusion of this course, you will be able to
 
 Phil 324 is cross-listed in Political Science and Public Administration & Policy.
 
-## Required Texts
+## Required Texts
 
 - Catharine A. MacKinnon, *Sexual Harassment of Working Women: A Case of Sex Discrimination*, Yale University Press, 1976. Paperback, 9780300022995. (Please be sure to look for used copies! We will start discussing the book in Week 4.)
 
 I will make all other required readings available digitally. If there are any barriers (technical, financial, etc.) that make it difficult for you to access any of the readings, please don’t be afraid to let me know.
 
-## Teaching Format, Suggestions, and Expectations
+## Teaching Format, Suggestions, and Expectations
 
 As our course will be delivered entirely online in an asynchronous format, it’s really important that you understand how the course works, how best to approach it, and what is expected of you.
 
@@ -70,27 +70,27 @@ This semester, I want to try out the idea of using a Discord server as our share
 
 I will post the link to join our Discord server on D2L > Announcements.
 
-### Optional Virtual Coffee Breaks
+### Optional Virtual Coffee Breaks
 
 In addition to individual office hours by appointment, I will host a virtual coffee break every week. The coffee break is exactly what it sounds like: it’s a coffee break, not another lecture. It’s also strictly optional. I will be there to answer any questions you might have or just to chat more about something that caught your interest. I will circulate a doodle poll at the start of the course to get a sense of what might work for different students, and I will try to rotate the days/times so that as many people as possible can participate.
 
-### Are You New to Philosophy or Law? (Welcome!!)
+### Are You New to Philosophy or Law? (Welcome!!)
 
 The readings assigned in this course are unique in that they are written by legally-minded philosophers and philosophically-minded legal scholars. For this reason, they can be challenging to read, especially if you are new to philosophy or law. It’s *okay* if you feel you don’t understand every word (a good dictionary is your friend!), or that you do understand every word but just can’t put them together in a way that makes sense, or that you more or less understand all the sentences but are still at sea about what exactly the author is saying or doing. These experiences are very common and not indicative of your potential to thrive in this class.
 
 You should expect to read (at least certain parts of) the text more than once. Reading philosophy/law is not a talent we are born with; rather, it is a skill that has to be acquired through practice. There is a lot to learn just from the *process* of putting effort into making sense of these difficult readings. I hope you will find the reading guides particularly useful, and please never be afraid to come to office hours to discuss passages you find puzzling!
 
-### Workload
+### Workload
 
 The university requires at least 135 hours of work by each student for a 3-credit course like ours, and so you should expect to spend an average of 19.3 hours every week working on this course. Around a third of these will be so-called “contact hours”—that is, watching recorded lectures, discussing and working with your peers, and discussing with the instructor. The rest will be spent on readings and assignments.
 
 I understand this is not a trivial time commitment. I also know you are already working incredibly hard by taking a summer course. What I really hope to see, then, is that all of you will be able to get the most out of this class. All the hours you spend reading, thinking, discussing and writing will be rewarding in the end.
 
-### Please Don’t Procrastinate!
+### Please Don’t Procrastinate!
 
 Procrastination is probably the biggest impediment to success in an online course. Given the fast pace of our 7-week format, there may be little time for you to catch up if you fall behind. **Please do all the readings, don’t wait until the last minute to rush through the lectures, remember to turn in assignments on time, and seek help early.** The modular structure is in place to help you keep track of your progress, but most will still depend on your own efforts!
 
-### Time Zone
+### Time Zone
 
 Tucson does *not* observe Daylight Saving Time and uses [**Mountain Standard Time (MST)** ](https://www.timeanddate.com/worldclock/usa/tucson) year round. MST is 7 hours behind the Coordinated Universal Time (UTC-7). Please be careful that MST is *not* the same as Mountain Time (MT) or Mountain Daylight Time (MDT).
 
@@ -98,7 +98,7 @@ Tucson does *not* observe Daylight Saving Time and uses [**Mountain Standard Tim
 
 How to structure the course in a way that is friendly to students with work, family, and other responsibilities is something that’s been on my radar. But I still struggle to do better. If you are a nontraditional student, I’m very happy to explore adjustments and alternative arrangements that might make more sense for your schedule.
 
-## Assessment
+## Assessment
 
 ### Grade Components
 
@@ -138,7 +138,7 @@ For each case discussion, you will be assigned one of two different roles:
 
 You will be required to be a pump primer for one topic and a discussant for the five others. You must sign up for discussion roles by **Thursday, July 6, at 11:59pm** (first come, first choice!). Your post as a pump primer will make up 10% of your final grade, and your five posts as a discussant another 15%.
 
-### Take-Home Final Exam
+### Take-Home Final Exam
 
 There will be a comprehensive take-home final exam consisting of short answer and short essay questions. The short answers question will ask you to explain basic concepts, arguments, and issues covered in this class, and the short essay questions will provide opportunities for you to apply your knowledge to novel cases.
 
@@ -150,7 +150,7 @@ I will distribute the final exam on Monday, August 14. It will be due on the uni
 
 The take-home final exam will make up 45% of your final grade.
 
-## Late Assignments, Extensions, and Make-ups
+## Late Assignments, Extensions, and Make-ups
 
 No late assignments will be accepted, but an extension will ordinarily be granted as long as you (1) have a clear plan for completing the assignment and (2) let me know your plan by email **no later than 6 hours before the deadline** (unless the delay is justified). Likewise, there is no need to show me any kind of documentation.
 
@@ -180,15 +180,15 @@ A valuable local opportunity is the Arizona Feminist Philosophy Graduate Confere
 
 ## [Schedule](schedule.md)
 
-## Respect, Support, and Care for One Another
+## Respect, Support, and Care for One Another
 
-### Materials in This Course
+### Materials in This Course
 
 Since many of the issues we will cover in this course are not only intellectually but also personally relevant, you might find it difficult to read and discuss certain course materials. I want to acknowledge that. It’s perfectly understandable.
 
 It’s therefore important that we *respect*, *support*, and *care for* one another throughout the course. Please always feel free to talk to me if you anticipate certain topics will be especially difficult for you, or if you think the way they get discussed in the class is disrespectful or otherwise problematic.
 
-### How to Respect, Support, and Care for One Another
+### How to Respect, Support, and Care for One Another
 
 Here are some concrete examples of how you can respect, support, and care for your classmates and instructor:
 
@@ -276,6 +276,6 @@ The UA policy regarding absences for any sincerely held religious belief, observ
 
 Absences preapproved by the UA Dean of Students (or the Dean’s designee) will be honored; see <http://policy.arizona.edu/employmenthuman-resources/attendance>.
 
-## Syllabus Change
+## Syllabus Change
 
 Information contained in the course syllabus, other than the grade and absence policy, may be subject to change with advance notice, as deemed appropriate by the instructor.
