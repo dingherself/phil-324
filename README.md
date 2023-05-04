@@ -13,11 +13,11 @@ Summer 2023, 7 Week 2 (July 3–August 18)
 **Instructor**: [Ding](https://www.dingherself.com) (they/she)\
 **Email**: [din@arizona.edu](mailto:din@arizona.edu)\
 **Office**: Social Sciences 138\
-**Office hours**: By appointment, online (video/audio/discord chat) or in person
+**Office hours**: By appointment, online (video/audio/Discord chat) or in person
 
 This course is an introduction to the philosophy of law in general and feminist philosophy of law in particular. We will consider several significant philosophical issues at the intersection of law and morality and explore their jurisprudential implications. Topics will include the nature of law, judicial discretion, constitutional and statutory interpretation, civil disobedience, racial equality, gender equality, sexual harassment, reproductive freedom, and LGBTQ+ equality.
 
-<p align="center"><strong>syllabus</strong> &VerticalLine; <strong>course modules</strong> &VerticalLine; <strong><a href="https://d2l.arizona.edu/d2l/home/1294813">D2L site</a></strong></p>
+<p align="center"><strong><a href="https://github.com/dingherself/phil-324/blob/main/syllabus.md">syllabus</a></strong> &VerticalLine; <strong><a href="https://github.com/dingherself/phil-324/blob/main/schedule.md">schedule</a></strong> &VerticalLine; <strong><a href="https://d2l.arizona.edu/d2l/home/1294813">D2L site</a></strong></p>
 
 <p align="center">&#42;&nbsp;&nbsp;&#42;&nbsp;&nbsp;&#42;</p>
 
