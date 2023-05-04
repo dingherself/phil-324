@@ -5,7 +5,7 @@
 **Instructor**: [Ding](https://www.dingherself.com) (my pronouns are [they/them](https://apastyle.apa.org/blog/singular-they) and she/her; I don’t use a last name)\
 **Email**: [din@arizona.edu](mailto:din@arizona.edu)\
 **Office**: Social Sciences 138\
-**Office hours**: By appointment, online (video/audio/discord chat) or in person
+**Office hours**: By appointment, online (video/audio/Discord chat) or in person
 
 ## Course Overview and Objectives
 
@@ -92,7 +92,7 @@ Procrastination is probably the biggest impediment to success in an online cours
 
 ### Time Zone
 
-Tucson does *not* observe Daylight Saving Time and uses [**Mountain Standard Time (MST)** ](https://www.timeanddate.com/worldclock/usa/tucson) year round. MST is 7 hours behind the Coordinated Universal Time (UTC-7). Please be careful that MST is *not* the same as Mountain Time (MT) or Mountain Daylight Time (MDT).
+Tucson does *not* observe Daylight Saving Time and uses [**Mountain Standard Time (MST)**](https://www.timeanddate.com/worldclock/usa/tucson) all year round. MST is 7 hours behind the Coordinated Universal Time (UTC-7). Please be careful that MST is *not* the same as Mountain Time (MT) or Mountain Daylight Time (MDT).
 
 ### Support for Nontraditional Students
 
@@ -122,8 +122,6 @@ I will create a reading guide for each module. The reading guides are due each *
 
 For each week we have new course content, we will try to apply what we have learned in class to a recent or current case in ways that build on but go beyond the lectures. The cases are as follows:
 
- 
-
 1. *United States v. Higgs* (2021): this is one of a very disturbing series of death penalty cases that the Supreme Court disposed of on its shadow docket.
 2. *Shinn v. Ramirez* (2022): the Court upheld the death sentences of two Arizona men despite evidence that their trial counsel was unconstitutionally ineffective, because their post-conviction counsel was also too unconstitutionally ineffective to raise the ineffective assistance of trial counsel claim.
 3. *Wooden v. United States* (2022): the Court considered whether burgling ten storage units at the same storage facility on the same night amounts to not one, but ten different offenses that are “committed on occasions different from one another,” thereby triggering a 15-year mandatory sentence under the Armed Career Criminal Act (ACCA) when the petitioner was later convicted of being a felon in possession of a firearm.
@@ -145,8 +143,6 @@ There will be a comprehensive take-home final exam consisting of short answer a
 The exam will be open book and open notes. You are encouraged to study for the exam together, but what you turn in should be your own. If any idea or language comes from a classmate, you should acknowledge it properly, just as you would in an essay.
 
 I will distribute the final exam on Monday, August 14. It will be due on the university-scheduled exam day, **Friday, August 18 by 11:59pm**.
-
- 
 
 The take-home final exam will make up 45% of your final grade.
 
