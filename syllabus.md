@@ -86,7 +86,7 @@ You should expect to read (at least certain parts of) the text more than once. R
 
 The university requires at least 135 hours of work by each student for a 3-credit course like ours, and so you should expect to spend an average of 20 hours every week working on this course. Around a third of these will be so-called “contact hours”—that is, watching recorded lectures and discussing with your peers and the instructor. The rest will be spent on readings and assignments.
 
-I understand this is not a trivial time commitment. I also know you are already working incredibly hard by taking a summer course. What I really hope to see, then, is that all of you will be able to get the most out of this class. All the hours you spend reading, thinking, discussing and writing will be rewarding in the end.
+I understand this is not a trivial time commitment. I also know you are already working incredibly hard by taking a summer course. What I really hope to see, then, is that all of you will be able to get the most out of this class. All the hours you spend reading, thinking, discussing, and writing will be rewarding in the end.
 
 ### Please Don’t Procrastinate!
 
