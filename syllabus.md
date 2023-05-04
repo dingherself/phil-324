@@ -68,9 +68,9 @@ If there are circumstances that prevent you from participating in the course or 
 
 ### Discord Server
 
-This semester, I want to try out the idea of using a Discord server as our shared virtual classroom and social space. On Discord, you can connect with other students, discuss course materials, study together, ask me quick questions (for questions that require long answers, it’s better to set up an appointment with me), and video/voice conference My hope is that the Discord server can help bring the class together as a community even though we are all online and scattered all over the world.
+This semester, I want to try out the idea of using a Discord server as our shared virtual classroom and social space. On Discord, you can connect with other students, discuss course materials, study together, ask me quick questions (for questions that require long answers, it’s often better to set up an appointment with me), and video/voice conference. My hope is that the Discord server can help bring the class together as a community even though we are all online and scattered all over the world.
 
-I will post the link to join our Discord server on D2L > Announcements.
+I will post the link to join our Discord server on D2L.
 
 ### Optional Virtual Coffee Breaks
 
