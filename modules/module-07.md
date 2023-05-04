@@ -1,4 +1,4 @@
-# Module 7 - The Very Intelligibility of Sex Discrimination
+# Module 7 - Developing Sex Discrimination Law
 
 ## Readings
 
