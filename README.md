@@ -10,8 +10,9 @@
 Summer 2023, University of Arizona
 
 **Instructor**: [Ding](https://www.dingherself.com) (they/she)\
+**Email**: [din@arizona.edu]{mailto:din@arizona.edu}\
 **Office**: Social Sciences 138\
-**Office hours**: By appointment, online (video/audio/chat) or in person
+**Office hours**: By appointment, online (video/audio/discord chat) or in person
 
 This course is an introduction to the philosophy of law in general and feminist philosophy of law in particular. We will consider several significant philosophical issues at the intersection of law and morality and explore their jurisprudential implications. Topics will include the nature of law, judicial discretion, constitutional and statutory interpretation, civil disobedience, racial equality, gender equality, sexual harassment, reproductive freedom, and LGBTQ+ equality.
 
