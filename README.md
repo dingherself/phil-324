@@ -10,7 +10,7 @@
 Summer 2023, University of Arizona
 
 **Instructor**: [Ding](https://www.dingherself.com) (they/she)\
-**Email**: [din@arizona.edu]{mailto:din@arizona.edu}\
+**Email**: [din@arizona.edu](mailto:din@arizona.edu)\
 **Office**: Social Sciences 138\
 **Office hours**: By appointment, online (video/audio/discord chat) or in person
 
