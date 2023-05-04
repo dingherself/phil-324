@@ -12,5 +12,5 @@
 
 Activities:
 
-- Come say hi to your classmates and instructor (D2L discussion board)
+- Come say hi to your classmates and instructor (Discord \#introductions channel)
 - Please sign up for discussion roles (first come, first choice!)
