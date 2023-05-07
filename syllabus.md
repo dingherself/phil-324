@@ -23,7 +23,7 @@ In this course, we will survey leading answers to these questions from the philo
 
 My expectations are, at the conclusion of this course, you will be able to
 
-1. Explain the disagreement between natural law theory, legal positivism and legal interpretivism on the relationship between law and morality;
+1. Explain the disagreement between natural law theory, legal positivism, and legal interpretivism on the relationship between law and morality;
 2. Illustrate various aspects of the relationship between law and morality in the contexts of judicial discretion, constitutional and statutory interpretation, civil disobedience, racial equality, gender equality, sexual harassment, reproductive freedom, and LGBTQ+ equality;
 3. Charitably interpret and critically assess philosophical texts and arguments;
 4. Compose a well-reasoned, original analysis that responds to a philosophical issue at the intersection of law and morality;
