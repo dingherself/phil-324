@@ -2,7 +2,7 @@
 
 <p align="center"><a href="https://www.gocomics.com/agnes/2009/08/25"><img src="https://assets.amuniversal.com/ac7eb4705014102dbf94001438c0f03b" alt="Comic strip; alt text follows the image below."></a></p>
 
-*From left to right*: Agnes: “Today, I declare my independence from physical law!” / Trout: “You can’t.” / Agnes: “Yes, I can... If I can choose to disobey civil law, I can choose to disobey physical law... That’s just simple algebra.” / Trout: “No... It’s NOT.” / Agnes: “Whatever... I’m going to go float free of gravity... Want to join me?” / Trout: “Nah... I promised my mom that I’d obey gravity.”
+*From left to right*: Agnes: “Today, I declare my independence from physical law!” / Trout: “You can’t.” / Agnes: “Yes, I can... If I can choose to disobey civil law, I can choose to disobey physical law... That’s just simple algebra.” / Trout: “No... It’s NOT.” / Agnes: “Whatever... I’m going to go float free of gravity... Want to join me?” / Trout: “Nah... I promised my mom that I’d obey gravity.” (Credit: Tony Cochran)
 
 <p align="center">&#42;&nbsp;&nbsp;&#42;&nbsp;&nbsp;&#42;</p>
 
