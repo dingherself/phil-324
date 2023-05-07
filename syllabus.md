@@ -195,7 +195,7 @@ Here are some concrete examples of how you can respect, support, and care for yo
 - Be mindful of how your tone/meaning might not be accurately conveyed through your writing alone (for example, if your question might be misunderstood as a rhetorical one, it’s probably a good idea to indicate explicitly that it is a genuine question);
 - Please use your go-by name as your display name and, *if* you feel comfortable and safe doing so, include your pronouns as well;
 - Use the pronouns and name you are asked to when you refer to a person, and avvoid assuming a person’s pronouns, gender identity, or sexual orientation based on their appearance, voice, or name;
-- Be careful not to disclose anyone’s gender identity or sexual orientation (i.e., out them) without their permission, even if they are already out in the classroom---it can put lives in danger;
+- Be careful not to disclose anyone’s gender identity or sexual orientation (i.e., out them) without their permission, even if they are already out in the classroom—it can put lives in danger;
 - Never inquire about anyone’s genitalia, deadname, “before” photos, medical history, assigned gender at birth, sex life, and so on;
 - Use inclusive language (for helpful examples, see <https://www.apaonline.org/page/nonsexist> and <https://transjournalists.org/style-guide>).
 
