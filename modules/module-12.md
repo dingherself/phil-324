@@ -1,4 +1,4 @@
-# Module 12 - Autonomy, Equality, and Subordination: Barriers to School Facilities Access as Sex Discrimination?
+# Module 12 - Barriers to School Facilities Access as Sex Discrimination?
 
 ## Readings
 

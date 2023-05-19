@@ -1,4 +1,4 @@
-# Module 11 - Autonomy and Equality: Barriers to Abortion Care Access as Sex Discrimination?
+# Module 11 - Barriers to Abortion Access as Sex Discrimination?
 
 ## Readings
 
