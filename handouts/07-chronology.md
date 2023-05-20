@@ -211,7 +211,7 @@ NB: This chronology has been a work-in-progress. Please let me know if you spot 
 
 - **Founding of the Society for Women in Philosophy (SWIP)**
 
-- In December, Beth Elliot and another trans woman were ousted by the San Francisco chapter of DOB on the grounds that they are “only synthetic women,”[^collective1972] so the Los Angeles chapter welcomed them instead
+- In December, Beth Elliot and another trans woman were ousted by the San Francisco chapter of DOB on the grounds that they were “only synthetic women,”[^collective1972] so the Los Angeles chapter welcomed them instead
 
 
 [^collective1972]: Quoted in “A Collective Editorial,” *The Lesbian Tide* 2, no. 5 (December 1972): p. 21.
