@@ -1,4 +1,4 @@
-# Women’s Liberation Movement and the Law: A Chronology of Cases
+# Women’s Liberation Movement and the Law: A Chronology of Cases
 
 NB: This chronology has been a work-in-progress. Please let me know if you spot errors or omissions. Even though they are not explicitly cited here, I could not have put this together without consulting similar chronologies included in [Kristan Poirot’s dissertation](https://getd.libs.uga.edu/pdfs/poirot_kristan_a_200408_phd.pdf) and [Ruth Rosen’s *The World Split Open*](https://www.penguinrandomhouse.com/books/332271/the-world-split-open-by-ruth-rosen/), as well as [Amy Leigh Campbell’s paper on the history of the ACLU Women's Rights Project](https://www.aclu.org/other/raising-bar-ruth-bader-ginsburg-and-aclu-womens-rights-projectthe-texas-journal-women-law-157).
 
