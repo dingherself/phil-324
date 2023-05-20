@@ -3,7 +3,7 @@
 ## Readings
 
 - Module 1 reading guide
-- Lon Fuller, *The Morality of Law* (Rev. ed. 1969), [Appendix (UA login needed for access via the university library)](http://ezproxy.library.arizona.edu/login?url=https://www.jstor.org/stable/j.ctt1cc2mds.10)
+- Lon Fuller, *The Morality of Law* (Rev. ed. 1969), [Appendix](http://ezproxy.library.arizona.edu/login?url=https://www.jstor.org/stable/j.ctt1cc2mds.10) (UA login needed for access via the university library)
 - [U.S. Constitution](https://www.govinfo.gov/content/pkg/CDOC-112hdoc129/pdf/CDOC-112hdoc129.pdf), Article III; Amendments I–XI, XIII–XV, XIX
 - SCOTUSblog, [“Supreme Court Procedure”](https://www.scotusblog.com/reference/educational-resources/supreme-court-procedure/)
 - Stephen Vladeck, [Statement before the Subcommittee on Courts, Intellectual Property, and the Internet of the Committee on the Judiciary](https://docs.house.gov/meetings/JU/JU03/20210218/111204/HHRG-117-JU03-Wstate-VladeckS-20210218-U1.pdf), U.S. House of Representatives, February 18, 2021

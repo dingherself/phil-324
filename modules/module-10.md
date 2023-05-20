@@ -3,7 +3,7 @@
 ## Readings
 
 - Module 10 reading guide
-- From our assigned book: Catharine MacKinnon, *Sexual Harassment of Working Women*, Preface and chaps. 1, 3, 6–7 (see the reading guide for which parts to skim or skip)
+- Catharine MacKinnon, *Sexual Harassment of Working Women*, Preface and chaps. 1, 3, 6–7 (see the reading guide for which parts to skim or skip)
 
 ## Lectures
 

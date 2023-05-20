@@ -1,5 +1,7 @@
 # PHIL 324: Summer 2023 Schedule
 
+N.B. Readings not otherwise linked in the schedule are either accessible through the course files folder that I shared on Box (see D2L for the link) or from the assigned book by MacKinnon.
+
 | Week # |  Modules | Due Dates |
 |--------|----------|-------------|
 | Before class begins | <ul><li>[Getting Started](modules/getting-started.md)</li></ul> | <ul><li>Please come introduce yourself on the class Discord server!</li></ul> |
