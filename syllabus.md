@@ -174,8 +174,6 @@ The American Philosophical Association (APA) has a useful handout for minority u
 
 A valuable local opportunity is the Arizona Feminist Philosophy Graduate Conference organized annually by graduate students at the UA Department of Philosophy. The conference brings together graduate students working on feminist issues from around the country and the world. The recordings of many talks in the past are available freely on the conference website: <https://femphilaz.com>. You can earn up to 3 extra credit points on your final exam by watching any of the talks, writing a 1–2 page response paper, and emailing it to me by 11:59pm on Wednesday, August 16. You should spend roughly half of your response paper summarizing the argument presented in the talk and then the other half critically engaging with it (e.g., raise a problem, defend it against a worry, connect it to an idea or argument we discussed in class, apply it to a different context). A couple of talks that are particularly relevant to this class include Professor Connie Rosati’s 2020 keynote on *Obergefell* (the 2015 U.S. Supreme Court case that declared bans on same-sex marriage unconstitutional), Professor Gina Schouten’s 2021 keynote on liberal feminism, and Joan O’Bryan’s 2022 paper on Beauvoir, MacKinnon, and Butler. But you should feel free to pick any other one that you find interesting!
 
-## [Schedule](schedule.md)
-
 ## Respect, Support, and Care for One Another
 
 ### Materials in This Course
@@ -218,15 +216,6 @@ The UA Threatening Behavior by Students Policy prohibits threats of physical har
 -   Campus Health: <https://health.arizona.edu>
 -   Counseling and Psych Services (CAPS): <https://health.arizona.edu/counseling-psych-services>
 -   Mental Health Tools from CAPS: <https://health.arizona.edu/mental-health-tools>
-
-### Crisis Resources
-
--   National Suicide Prevention Lifeline: call 800-273-TALK (8255)
--   National Sexual Assault Hotline: call 800-656-HOPE (4673) or chat online (English and Spanish) at <https://www.rainn.org/resources>
--   Love Is Respect (dating abuse helpline for youth between 13 and 26): call 866-331-9474, text “LOVEIS” to 22522, or chat online at <https://www.loveisrespect.org/get-help>
--   Trevor Lifeline (for LGBTQ+ youth under 25): call 866-488-7386, text “START” to 678-678, or chat online at <https://www.thetrevorproject.org/get-help-now>
--   Trans Lifeline (operators are all trans/nonbinary people): call 877-565-8860 (English and Spanish)
--   CAPS Crisis Resources, Hotlines, and Apps: <https://health.arizona.edu/crisis-resources-and-hotlines>
 
 ### Student Assistance
 
