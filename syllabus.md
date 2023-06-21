@@ -11,12 +11,12 @@ N.B. To view the table of contents, click on the outline icon on the upper right
 
 ## Course Overview and Objectives
 
-What is the relationship between law and morality? Can a morally indefensible law ever be legally valid? Is civil disobedience ever justifiable, and if so, under what circumstances? When judges interpret the law, do they follow moral principles even if those principles may have never been enacted into the law by a legislature? Should they? Are there ever cases where the law just “runs out,” and if so, how should judges decide them? Or, is there always a right answer as to how a case should be decided, distinguishable from the final answer given by a court of last resort such as the U.S. Supreme Court?
+What is the relationship between law and morality? Can a morally indefensible law nevertheless be legally valid? Is civil disobedience ever justifiable, and if so, under what circumstances? When judges interpret the law, do they follow moral principles even if those principles may have never been enacted into the law by a legislature? Should they? Are there cases where the law just “runs out,” and if so, how should judges decide them? Or, is there always a right answer as to how a case should be decided, distinguishable from the final answer given by a court of last resort such as the U.S. Supreme Court?
 
 In this course, we will survey leading answers to these questions from the philosophy of law and consider their jurisprudential implications for a variety of issues central to feminist, antiracist legal theory. Our focus will be the interpretation and application of the Equal Protection Clause of the 14th Amendment:
 
 - First, we will consider the arguments behind the Supreme Court’s landmark holdings in *Brown v. Board of Education* (1954) that the racial segregation of public education is inherently unequal, and in *Loving v. Virginia* (1967) that a state law criminalizing interracial marriage violates both the equal protection and due process requirements of the 14th Amendment.
-- Next, we will examine and critically assess the development of the Court’s gender equality jurisprudence under the 14th Amendment and Title VII of the Civil Rights Act of 1964. We will attend especially to ways in which gender inequality may be obscured by a lack of appreciation of intersectional discrimination and structural subordination. To illustrate intersectional discrimination, we will look at the Court’s very recent holding in *Bostock v. Clayton County* (2020) that firing an employee because of their sexual orientation or gender identity is necessarily sex discriminatory and thus violates Title VII. As for structural subordination, we will turn to Catharine MacKinnon’s extraordinarily influential argument that the sexual harassment of women workers constitutes a case of sex discrimination in employment.
+- Next, we will examine and critically assess the development of the Court’s gender equality jurisprudence under the 14th Amendment and Title VII of the Civil Rights Act of 1964. We will attend especially to ways in which gender inequality may be obscured by a lack of appreciation of intersectional discrimination and structural subordination. To illustrate intersectional discrimination, we will look at the Court’s recent holding in *Bostock v. Clayton County* (2020) that firing an employee because of their sexual orientation or gender identity is necessarily sex discriminatory and thus violates Title VII. As for structural subordination, we will turn to Catharine MacKinnon’s extraordinarily influential argument that the sexual harassment of women workers constitutes a case of sex discrimination in employment.
 - Finally, we will try to apply these important insights to two rapidly developing areas of law—reproductive and transgender rights. We will discuss the Court’s reproductive rights cases from *Griswold* to *Roe*, to *Casey*, and now to *Dobbs*, with an emphasis on the connection between due process and equal protection. We will then conclude by considering some leading (and ongoing) cases challenging transgender discrimination.
 
 ## Expected Learning Outcomes
@@ -34,7 +34,7 @@ Phil 324 is cross-listed in Political Science and Public Administration & Policy
 
 ## Required Texts
 
-- Catharine A. MacKinnon, *Sexual Harassment of Working Women: A Case of Sex Discrimination*, Yale University Press, 1976. Paperback, 9780300022995. (Please be sure to look for used copies! We will start discussing the book in Week 4.)
+- Catharine A. MacKinnon, *Sexual Harassment of Working Women: A Case of Sex Discrimination*, Yale University Press, 1976. Paperback, 9780300022995. (Be sure to look for used copies! We will start discussing the book in Week 4.)
 
 I will make all other required readings available digitally. If there are any barriers (technical, financial, etc.) that make it difficult for you to access any of the readings, please don’t be afraid to let me know.
 
@@ -44,7 +44,7 @@ As our course will be delivered entirely online in an asynchronous format, it’
 
 ### Github Website
 
-Unfortunately, I find the university’s D2L system extraordinarily awkward to use for an asynchronous online course. I’m hosting most course materials—including all links to lectures, all my notes, and most readings—on Github (<https://github.com/dingherself/phil-324>).
+Unfortunately, I find the university’s D2L system very awkward to use for an asynchronous online course. I’m hosting most course materials—including all links to lectures, all my notes, and most readings—on Github (<https://github.com/dingherself/phil-324>).
 
 Some readings, however, are not in the public domain. I will upload these to a shared class Box folder (https://arizona.box.com/s/gpv6oqrj6ih2iejs76tj55mdv2g4yf0j). You will need to log in using your UofA account in order to access them.
 
@@ -56,35 +56,35 @@ Our course is divided into 12 modules, each of which is roughly equivalent to tw
 
 **Two modules are assigned each week for the first six weeks of the course.** During Week 7, you will be asked to complete a take-home final exam. For each module, you are expected to:
 
-- Do all assigned readings as you follow and fill out the reading guide;
+- Do all assigned readings as you follow and complete the reading guide;
 - Watch all assigned lectures; and
 - Participate in the weekly case discussion.
 
 There is no firm deadline by which you must do the readings and watch the lectures. However, the reading guides, case discussions, and all other assignments have specific due dates.
 
-If there are circumstances that prevent you from participating in the course or meeting certain deadlines, please don’t be afraid to let me know. My policy on late assignments, extensions, and make-ups is explained [below](#late-assignments-extensions-and-make-ups).
+If there are circumstances that prevent you from participating in the course or meeting certain deadlines, please don’t be afraid to reach out. My policy on late assignments, extensions, and make-ups is explained [below](#late-assignments-extensions-and-make-ups).
 
 ### Discord Server
 
-This semester, I want to try out the idea of using a Discord server as our shared virtual classroom and social space. On Discord, you can connect with other students, discuss course materials, study together, ask me quick questions (for questions that require long answers, it’s often better to set up an appointment with me), and video/voice conference. My hope is that the Discord server can help bring the class together as a community even though we are all online and scattered all over the world.
+This semester, I want to try out the idea of using a Discord server as our shared virtual classroom and social space. On Discord, you can connect with other students, discuss course materials, study together, ask me quick questions (for questions that require long answers, it may be better to set up an appointment with me), and video/voice chat. My hope is that the Discord server can help bring the class together as a community even though we are online and scattered all over the world.
 
 I will post the link to join our Discord server on D2L.
 
 ### Optional Virtual Coffee Breaks
 
-In addition to individual office hours by appointment, I will host a virtual coffee break every week. The coffee break is exactly what it sounds like: it’s a coffee break, not another lecture. It’s also strictly optional. I will be there to answer any questions you might have or just to chat more about something that caught your interest. I will circulate a doodle poll at the start of the course to get a sense of what might work for different students, and I will try to rotate the days/times so that as many people as possible can participate.
+In addition to individual office hours by appointment, I will host a virtual coffee break every week. The coffee break is exactly what it sounds like: it’s a coffee break, not another lecture, and it’s strictly optional. During the coffee break, I will be hanging out in one of the Discord voice channels to answer questions you might have or just to chat more about something that caught your interest. I will circulate a doodle poll at the start of the course to get a sense of what might work for different students, and I will try to rotate the days/times so that as many people as possible can participate.
 
 ### Are You New to Philosophy or Law? (Welcome!!)
 
 The readings assigned in this course are unique in that they are written by legally-minded philosophers and philosophically-minded legal scholars. For this reason, they can be challenging to read, especially if you are new to philosophy or law. It’s *okay* if you feel you don’t understand every word (a good dictionary is your friend!), or that you do understand every word but just can’t put them together in a way that makes sense, or that you more or less understand all the sentences but are still at sea about what exactly the author is saying or doing. These experiences are very common and not indicative of your potential to thrive in this class.
 
-You should expect to read (at least certain parts of) the text more than once. Reading philosophy/law is not a talent we are born with; rather, it is a skill that has to be acquired through practice. There is a lot to learn just from the *process* of putting effort into making sense of these difficult readings. I hope you will find the reading guides particularly useful, and please never be afraid to come to office hours to discuss passages you find puzzling!
+You should expect to read (at least certain parts of) the text more than once. Reading philosophy/law is not a talent we are born with; rather, it is a skill that has to be acquired through practice. There is a lot to learn just from the *process* of putting effort into making sense of these difficult readings. I hope you will find the reading guides particularly useful, and please never be afraid to come ask questions about passages you find puzzling!
 
 ### Workload
 
 The university requires at least 135 hours of work by each student for a 3-credit course like ours, and so you should expect to spend an average of 20 hours every week working on this course. Around a third of these will be so-called “contact hours”—that is, watching recorded lectures and discussing with your peers and the instructor. The rest will be spent on readings and assignments.
 
-I understand this is not a trivial time commitment. I also know you are already working incredibly hard by taking a summer course. What I really hope to see, then, is that all of you will be able to get the most out of this class. All the hours you spend reading, thinking, discussing, and writing will be rewarding in the end.
+I understand this is not a trivial time commitment. I also know you are already working incredibly hard by taking a summer course. I really want all of you to get the most out of this class. All the hours you spend reading, thinking, discussing, and writing will be rewarding in the end.
 
 ### Please Don’t Procrastinate!
 
@@ -110,17 +110,17 @@ You must complete the take-home final exam with at least a passing grade in orde
 
 ### Reading Guides
 
-The reading guides are designed to walk you through the assigned readings by helping you identify the key concepts, distinctions, claims, and argumentative steps. Occasionally, I will use the reading guides to explain some relevant philosophical and historical background. As you do the readings, please follow the questions on the reading guide and identify the relevant passages in the text that address them.
+The reading guides are designed to walk you through the assigned readings by helping you identify the key concepts, distinctions, claims, and argumentative steps. Occasionally, they will also explain some relevant philosophical or historical background. As you do the readings, please follow the questions on the reading guide and identify the relevant passages in the text that address them.
 
-Some of the reading guide questions are **bolded**. If a question is bolded, please write out a brief answer. If a question is not bolded, you don’t need to answer it, but you are encouraged to write the page number of the relevant passage next to the question on the reading guide (doing so will make it easier for you to locate the passage later).
+Some of the reading guide questions are **bolded**. If a question is bolded, you are asked to write out a brief answer. If a question is not bolded, you don’t need to answer it, but you are encouraged to write the page number of the relevant passage next to the question on the reading guide (doing so will make it easier for you to locate the passage later).
 
-Please feel free to leave questions and comments for me as you answer the reading guide questions. Do keep in mind that Word’s commenting function is not supported by the D2L grading tool, so always write directly in the main text itself.
+Please feel free to leave questions and comments for me as you answer the reading guide questions. Do keep in mind that Word’s commenting function is not supported by D2L, so always write directly in the main text itself.
 
-I will create a reading guide for each module. The reading guides are due each **Sunday by 11:59pm**, and they will together make up 30% of your final grade.
+I will create a reading guide for each module. The reading guides are due each **Sunday by 11:59pm**, and together they will make up 30% of your final grade.
 
 ### Case Discussions
 
-For each week we have new course content, we will try to apply what we have learned in class to a recent or current case in ways that build on but go beyond the lectures. The cases are as follows:
+For each week we have new course content, we will try to apply what we have learned in class to a recent or current case in ways that build on but go beyond the lectures. This summer, we will discuss the following cases:
 
 1. *United States v. Higgs* (2021): this is one of a very disturbing series of death penalty cases that the Supreme Court disposed of on its shadow docket.
 2. *Shinn v. Ramirez* (2022): the Court upheld the death sentences of two Arizona men despite evidence that their trial counsel was unconstitutionally ineffective, because their post-conviction counsel was also too unconstitutionally ineffective to raise the ineffective assistance of trial counsel claim.
@@ -129,12 +129,12 @@ For each week we have new course content, we will try to apply what we have lear
 5. *Frappied v. Affinity Gaming Black Hawk* (10th Cir. 2020): the 10th Circuit considered a claim of employment discrimination on an intersectional “sex-plus-age” basis.
 6. *Toomey v. Arizona*, No. 19-cv-35 (D. Ariz. filed Jan. 23, 2019): a UA professor challenges Arizona’s categorical exclusion of gender-affirming surgical care under its state employee health insurance plan.
 
-For each case, I will write a brief summary as well as a question to guide the discussion, and you will be asked to take on one of two different roles:
+For each case, I will write a brief introduction as well as a question to guide the discussion, and you will be asked to take on one of two different roles:
 
-- *Pump-Primer*: As a pump-primer, you will either write an initial post (roughly 300–500 words) or record a video presentation (roughly 5–7 minutes) in which you will provide an initial analysis of the case in response to my question. You are then expected to reply at least periodically to your classmates in the next couple of days. The pump-priming post is due to the discussion board each **Sunday by 11:59pm**.
-- *Discussant*: The rest of the class will contribute to the discussion by responding to the pump-priming posts and/or the replies. You should write at least two reasonably elaborated replies (perhaps one or two short paragraphs) that engage critically with the *substance* of the issue. You are especially encouraged to have some back-and-forths. There are many ways you can do this: for example, you can raise an objection to an argument (e.g., “Ana argues for A on the grounds that B, but B is false, and here is why”), provide a further consideration that doesn’t seem to have drawn enough attention (e.g., “we’ve been talking about A and B, but I want to suggest that C is also relevant because D”), elaborate on someone else’s point (e.g., “Quinn points out A, and I think that’s a really important issue in light of B”), defend an argument against an objection (e.g., “Toby doesn’t agree with Summer’s argument for A, but I believe Summer is right and here’s what they could say in response”), or offer your original argument (e.g., “some of us have argued for A by appealing to B, C or D; even though the rest of us don’t agree, we can all agree that E is true, and I think E is enough for making A true”). And if you notice a classmate’s point has not been picked up by anyone, try to respond to it first. You should post your first reply as early as you can to help facilitate conversations, but both replies are due officially the **Tuesday of the following week by 11:59pm**.
+- *Pump-Primer*: As a pump-primer, you will either write an initial post (roughly 500–700 words) or record a video presentation (roughly 7–10 minutes) in which you will provide an initial summary and analysis of the case in response to my question. You are then expected to reply at least periodically to your classmates in the next couple of days. The pump-priming post is due to the discussion board each **Sunday by 11:59pm**.
+- *Discussant*: The rest of the class will contribute to the discussion by responding to the pump-priming posts and/or the replies. You should write at least two reasonably elaborated replies (perhaps one or two short paragraphs) that engage critically with the *substance* of the issue. You are especially encouraged to engage in back-and-forths with each other. There are many ways you can do this: for example, you can raise an objection to an argument (e.g., “Toby argues for A on the grounds that B, but B is false, and here is why”), provide a further consideration that doesn’t seem to have drawn enough attention (e.g., “we’ve been talking about A and B, but I want to suggest that C is also relevant because D”), elaborate on someone else’s point (e.g., “Quinn points out A, and I think that’s a really important issue in light of B”), defend an argument against an objection (e.g., “Ana doesn’t agree with Summer’s argument for A, but I believe Summer is right and here’s what they could say in response”), or offer your original argument (e.g., “some of us have argued for A by appealing to B, C or D; even though the rest of us don’t agree, we can all agree that E is true, and I think E is enough for making A true”). And if you notice a classmate’s point has not been picked up by anyone, try to respond to it first. You should post your first reply as early as you can to help facilitate conversations, but both replies are due officially the **Wednesday of the following week by 11:59pm**.
 
-You will be required to be a pump primer for one topic and a discussant for the five others. You must sign up for discussion roles by **Thursday, July 6, at 11:59pm** (first come, first choice!). Your post as a pump primer will make up 10% of your final grade, and your five posts as a discussant another 15%.
+You will be required to be a pump primer for one topic and a discussant for the five others. You must sign up for discussion roles by **Friday, July 7, at 11:59pm** (first come, first choice!). Your post as a pump primer will make up 10% of your final grade, and your five posts as a discussant another 15%.
 
 ### Take-Home Final Exam
 
@@ -148,7 +148,9 @@ The take-home final exam will make up 45% of your final grade.
 
 ## Late Assignments, Extensions, and Make-ups
 
-No late assignments will be accepted, but an extension will ordinarily be granted as long as you (1) have a clear plan for completing the assignment and (2) let me know your plan by email **no later than 6 hours before the deadline** (unless the delay is justified). Likewise, there is no need to show me any kind of documentation.
+No late assignments will be accepted, but an extension will ordinarily be granted as long as you (1) have a clear plan for completing the assignment and (2) let me know your plan by email **no later than 6 hours before the deadline** (unless the delay is justified).
+
+This is an honor system, and I trust you not to abuse it. I do not ask for any kind of documentation. All I ask is you also be flexible and considerate when you are in a position of power to do so.
 
 As an instructor, I always appreciate students asking for extensions ahead of time when possible. Make-ups for missed assignments after the fact are generally disfavored, and will be granted only to accommodate emergencies and other unexpected circumstances, such as physical (including mental) health, child care, family emergencies, and military duty. We can always work something out, but it’s important that you contact me as soon as you can.
 
