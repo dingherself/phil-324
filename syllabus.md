@@ -42,9 +42,9 @@ I will make all other required readings available digitally. If there are any ba
 
 As our course will be delivered entirely online in an asynchronous format, it’s really important that you understand how the course works, how best to approach it, and what is expected of you.
 
-### Github Website
+### GitHub Website
 
-Unfortunately, I find the university’s D2L system very awkward to use for an asynchronous online course. I’m hosting most course materials—including all links to lectures, all my notes, and most readings—on Github (<https://github.com/dingherself/phil-324>).
+Unfortunately, I find the university’s D2L system very awkward to use for an asynchronous online course. I’m hosting most course materials—including all links to lectures, all my notes, and most readings—on GitHub (<https://github.com/dingherself/phil-324>).
 
 Some readings, however, are not in the public domain. I will upload these to a shared class Box folder (https://arizona.box.com/s/gpv6oqrj6ih2iejs76tj55mdv2g4yf0j). You will need to log in using your UofA account in order to access them.
 
@@ -72,7 +72,7 @@ I will post the link to join our Discord server on D2L.
 
 ### Optional Virtual Coffee Breaks
 
-In addition to individual office hours by appointment, I will host a virtual coffee break every week. The coffee break is exactly what it sounds like: it’s a coffee break, not another lecture, and it’s strictly optional. During the coffee break, I will be hanging out in one of the Discord voice channels to answer questions you might have or just to chat more about something that caught your interest. I will circulate a doodle poll at the start of the course to get a sense of what might work for different students, and I will try to rotate the days/times so that as many people as possible can participate.
+In addition to individual office hours by appointment, I will host a virtual coffee break every week. The coffee break is what it sounds like: it’s a coffee break, not another lecture, and it’s strictly optional. During the coffee break, I will be hanging out in one of the Discord voice channels to answer questions you might have or just to chat more about something that caught your interest. I will circulate a doodle poll at the start of the course to get a sense of what might work for different students, and I will try to rotate the days/times so that as many people as possible can participate.
 
 ### Are You New to Philosophy or Law? (Welcome!!)
 
