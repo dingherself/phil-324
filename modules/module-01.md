@@ -26,3 +26,4 @@ Please also check out these useful sites (I mean it—do click on the links and 
 ## Assignment
 
 - Module 1 reading guide (due to D2L > Assignments)
+- Please sign up for discussion roles (first come, first choice!) (link to be posted here)
