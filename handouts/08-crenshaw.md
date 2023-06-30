@@ -52,10 +52,10 @@ Ding (University of Arizona)
 
       -   Now, imagine the following hypothetical hiring policy:
 
-|       | Women     | Men   |
-|-------|-----------|-------|
-| Black | Not hired | Hired |
-| White | Hired     | Hired |
+          |       | Women     | Men   |
+          |-------|-----------|-------|
+          | Black | Not hired | Hired |
+          | White | Hired     | Hired |
 
           -   Using the court's logic, there is no sex discrimination
               because white women are hired.
