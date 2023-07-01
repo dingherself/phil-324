@@ -1,6 +1,6 @@
 # Module 2 - Natural Law Theory and Legal Positivism: Classical Defenses
 
-As a reminder, if a reading is not linked here, I have uploaded it to the Box folder (see D2L for the link).
+As a reminder, if a reading is not linked here, you can find it in the Box folder (see D2L for the link).
 
 ## Readings
 
