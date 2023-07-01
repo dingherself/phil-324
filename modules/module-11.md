@@ -9,8 +9,9 @@
 
 ## Lectures
 
-- Lecture 11.1: Reproductive Freedom ([part 1](https://youtu.be/Ew21ZjJ2ing) \| [part 2](https://youtu.be/VZkcdxJF_T8) \| [part 3](https://youtu.be/sBmGp1hmyBY) \| planned part 4 on Texas’s S.B. 8 \| planned part 5 on *Dobbs* \| handout)
-- Lecture 11.2: Ginsburg ([video](https://youtu.be/2ykEmmiYXpg) \| handout)
+- Lecture 11.1: Reproductive Freedom ([part 1](https://youtu.be/Ew21ZjJ2ing) \| [part 2](https://youtu.be/VZkcdxJF_T8) \| [part 3](https://youtu.be/sBmGp1hmyBY) \| [handout](https://github.com/dingherself/phil-324/blob/main/handouts/11-reproductive-freedom.md))
+- Lecture 11.2: Ginsburg ([video](https://youtu.be/2ykEmmiYXpg) \| [handout](https://github.com/dingherself/phil-324/blob/main/handouts/11-ginsburg.md))
+- Planned supplemental notes on *Dobbs*
 
 ## Assignment
 

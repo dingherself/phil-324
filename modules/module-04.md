@@ -7,7 +7,7 @@
 
 ## Lectures
 
-- Lecture 4: Dworkin ([part 1](https://youtu.be/jhl6C1gbwR8) \| [part 2](https://youtu.be/7rfVwwdo-Gk) \| [part 3](https://youtu.be/Mg-KDCNOoO4) \| [part 4](https://youtu.be/V2H9w8YuBNM) \| handout)
+- Lecture 4: Dworkin ([part 1](https://youtu.be/jhl6C1gbwR8) \| [part 2](https://youtu.be/7rfVwwdo-Gk) \| [part 3](https://youtu.be/Mg-KDCNOoO4) \| [part 4](https://youtu.be/V2H9w8YuBNM) \| [handout](https://github.com/dingherself/phil-324/blob/main/handouts/04-dworkin.md))
 
 ## Assignment
 

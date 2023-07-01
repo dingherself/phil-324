@@ -12,11 +12,11 @@
 
 ## Lectures
 
-- Lecture 5.1: Plessy & Brown* ([part 1](https://youtu.be/UsVgq3mRbho) \| [part 2](https://youtu.be/-cJ80PUOsMY) \| [part 3](https://youtu.be/cL0ivF9fq_o) \| handout)
+- Lecture 5.1: *Plessy* & *Brown* ([part 1](https://youtu.be/UsVgq3mRbho) \| [part 2](https://youtu.be/-cJ80PUOsMY) \| [part 3](https://youtu.be/cL0ivF9fq_o) \| [handout](https://github.com/dingherself/phil-324/blob/main/handouts/05-plessy-brown.md))
 
 (\* Although I think this should be very obvious from the video, the weight of the topic warrants a more explicit note: The many times I laugh in this lecture are, of course, laughs *at*, not with, racism. Laughter, for me personally, is a way of processing and coping with a racist text like *Plessy*. I also want to be hopeful that there is something powerful and liberatory in being able to laugh at it. But, needless to say, this sort of thing is always tricky to balance well. If you have feedback, I would love to hear it.)
 
-- Lecture 5.2: Scalia & Dworkin ([part 1](https://youtu.be/GK1DN3h5tCk) \| [part 2](https://youtu.be/LsVEzgCGlok) \| [part 3](https://youtu.be/W1Mr8zLyQw4) \| handout)
+- Lecture 5.2: Scalia & Dworkin ([part 1](https://youtu.be/GK1DN3h5tCk) \| [part 2](https://youtu.be/LsVEzgCGlok) \| [part 3](https://youtu.be/W1Mr8zLyQw4) \| [handout](https://github.com/dingherself/phil-324/blob/main/handouts/05-scalia-dworkin.md))
 
 ## Assignment
 

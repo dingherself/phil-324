@@ -14,7 +14,7 @@
 
 ## Lectures
 
-- Lecture 7: Sex Discrimination (part 1 \| part 2 \| part 3 \| part 4 \| handout)
+- Lecture 7: Sex Discrimination ([part 1](https://youtu.be/uK4o13A7E_4) \| [part 2](https://youtu.be/tvfLbSLUvZc) \| [part 3](https://youtu.be/EH9qVkQmKO8) \| [part 4](https://youtu.be/RdqZbchrm-0) \| [handout](https://github.com/dingherself/phil-324/blob/main/handouts/07-sex-discrimination.md))
 
 ## Assignment
 

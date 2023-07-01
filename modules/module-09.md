@@ -10,7 +10,7 @@
 
 ## Lectures
 
-- Lecture 9: Bostock ([part 1](https://youtu.be/LK_RbmhT9y4) \| [part 2](https://youtu.be/oUuQ3MQj4yQ) \| handout)
+- Lecture 9: *Bostock* ([part 1](https://youtu.be/LK_RbmhT9y4) \| [part 2](https://youtu.be/oUuQ3MQj4yQ) \| [handout](https://github.com/dingherself/phil-324/blob/main/handouts/09-bostock.md))
 
 ## Assignment
 

@@ -7,7 +7,7 @@
 
 ## Lectures
 
-- Lecture 10: Sexual Harassment ([part 1](https://youtu.be/cn2qKm5mlk4) \| [part 2](https://youtu.be/1MCJx4IQDGo) \| [part 3](https://youtu.be/Dabpdeilnz8) \| handout)
+- Lecture 10: Sexual Harassment ([part 1](https://youtu.be/cn2qKm5mlk4) \| [part 2](https://youtu.be/1MCJx4IQDGo) \| [part 3](https://youtu.be/Dabpdeilnz8) \| [handout](https://github.com/dingherself/phil-324/blob/main/handouts/10-sexual-harassment.md))
 
 ## Assignment
 

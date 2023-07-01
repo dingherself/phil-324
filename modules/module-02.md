@@ -8,8 +8,8 @@
 
 ## Lectures
 
-- Lecture 2.1: Aquinas ([video](https://youtu.be/RQVr0MH-UkU) \| handout)
-- Lecture 2.2: Austin ([video](https://youtu.be/tnZG4amlQ1Q) \| handout)
+- Lecture 2.1: Aquinas ([video](https://youtu.be/RQVr0MH-UkU) \| [handout](https://github.com/dingherself/phil-324/blob/main/handouts/02-aquinas.md))
+- Lecture 2.2: Austin ([video](https://youtu.be/tnZG4amlQ1Q) \| [handout](https://github.com/dingherself/phil-324/blob/main/handouts/02-austin.md))
 
 ## Assignment
 

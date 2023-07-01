@@ -8,8 +8,8 @@
 
 ## Lectures
 
-- Lecture 8.1: Crenshaw ([part 1](https://youtu.be/1hI8Y5Ws_AI) \| [part 2](https://youtu.be/MgdizBtUxzI) \| handout)
-- Lecture 8.2: MacKinnon ([part 1](https://youtu.be/oAaxzeV0MZg) \| [part 2](https://youtu.be/nJ97Rnfu-ng) \| handout)
+- Lecture 8.1: Crenshaw ([part 1](https://youtu.be/1hI8Y5Ws_AI) \| [part 2](https://youtu.be/MgdizBtUxzI) \| [handout](https://github.com/dingherself/phil-324/blob/main/handouts/08-crenshaw.md))
+- Lecture 8.2: MacKinnon ([part 1](https://youtu.be/oAaxzeV0MZg) \| [part 2](https://youtu.be/nJ97Rnfu-ng) \| [handout](https://github.com/dingherself/phil-324/blob/main/handouts/08-macKinnon.md))
 
 ## Assignment
 
