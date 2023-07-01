@@ -1,5 +1,7 @@
 # Module 2 - Natural Law Theory and Legal Positivism: Classical Defenses
 
+As a reminder, if a reading is not linked here, I have uploaded it to the Box folder (see D2L for the link).
+
 ## Readings
 
 - [Module 2 reading guide](https://github.com/dingherself/phil-324/raw/main/reading-guides/02-reading-guide.docx)
