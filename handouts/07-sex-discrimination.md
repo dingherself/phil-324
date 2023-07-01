@@ -9,20 +9,18 @@ Ding (University of Arizona)
     discrimination jurisprudence. Until *Reed*, the U.S. Supreme Court
     had never struck down any statute on the grounds that it
     discriminated on the basis of sex.
-    -   In this module, we will discuss how the Court treated sex
-        discrimination prior to *Reed*, what legal strategy helped bring
-        *Reed* about, what the Court's holding in *Reed* was, and how
-        the Court's sex discrimination doctrine developed after *Reed*.
-    
-    -   In the next module, we will discuss two influential critiques of
-        the dominant doctrinal treatment of sex discrimination
-        post-*Reed*.
-    
-    -   Afterwards, we will explore the relationship between sex
-        discrimination and employment discrimination against LGBTQ+
-        employees (Module 9), sexual harassment (Module 10),
-        reproductive freedom (Module 11), and educational discrimination
-        against transgender students (Module 12).
+-   In this module, we will discuss how the Court treated sex
+    discrimination prior to *Reed*, what legal strategy helped bring
+    *Reed* about, what the Court's holding in *Reed* was, and how
+    the Court's sex discrimination doctrine developed after *Reed*.
+-   In the next module, we will discuss two influential critiques of
+    the dominant doctrinal treatment of sex discrimination
+    post-*Reed*.
+-   Afterwards, we will explore the relationship between sex
+    discrimination and employment discrimination against LGBTQ+
+    employees (Module 9), sexual harassment (Module 10),
+    reproductive freedom (Module 11), and educational discrimination
+    against transgender students (Module 12).
 
 ## Notable Sex Discrimination Cases Prior to *Reed*
 
