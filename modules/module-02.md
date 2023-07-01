@@ -2,7 +2,7 @@
 
 ## Readings
 
-- Module 2 reading guide
+- [Module 2 reading guide](https://github.com/dingherself/phil-324/raw/main/reading-guides/02-reading-guide.docx)
 - Thomas Aquinas, *Summa Theologiae* I-II, Question 90; Question 94, Article 4; [Question 95, Article 2](http://library.nlx.com.ezproxy4.library.arizona.edu/xtf/view?docId=aquinas/aquinas.02.xml;chunk.id=id292547;toc.depth=1;toc.id=id1287657;brand=default) (UA login); [Question 96, Article 4](http://library.nlx.com.ezproxy4.library.arizona.edu/xtf/view?docId=aquinas/aquinas.02.xml;chunk.id=id293504;toc.depth=1;toc.id=id1287657;brand=default) (UA login)
 - John Austin, selections from *The Province of Jurisprudence Determined* (1832)
 

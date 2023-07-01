@@ -2,7 +2,7 @@
 
 ## Readings
 
-- Module 1 reading guide
+- [Module 1 reading guide](https://github.com/dingherself/phil-324/raw/main/reading-guides/01-reading-guide.docx)
 - Lon Fuller, *The Morality of Law* (Rev. ed. 1969), [Appendix](http://ezproxy.library.arizona.edu/login?url=https://www.jstor.org/stable/j.ctt1cc2mds.10) (UA login needed for access via the university library)
 - [U.S. Constitution](https://www.govinfo.gov/content/pkg/CDOC-112hdoc129/pdf/CDOC-112hdoc129.pdf), Article III; Amendments I–XI, XIII–XV, XIX
 - SCOTUSblog, [“Supreme Court Procedure”](https://www.scotusblog.com/reference/educational-resources/supreme-court-procedure/)
