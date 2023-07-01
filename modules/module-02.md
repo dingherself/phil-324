@@ -17,4 +17,4 @@
 
 ## Case Discussion
 
-- *United States v. Higgs* (2021)
+- [*United States v. Higgs* (2021)](https://github.com/dingherself/phil-324/blob/main/case-discussions/01-higgs.md) (post to D2L > Discussions)
