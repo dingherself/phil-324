@@ -586,7 +586,7 @@ Ding (University of Arizona)
         
     -   But, second, this is not just a problem for binary/nonbinary
             trans men, trans masculine nonbinary people, and intersex people, but
-            for *cis* men as well. *Newport v. EEOC* (1983) provides
+            for *cis* men as well. *Newport News v. EEOC* (1983) provides
             such an example. In that case, the employer provided less
             extensive pregnancy coverage for the spouses of male
             employees than for the spouses of female employees (of
