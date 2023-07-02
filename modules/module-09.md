@@ -1,4 +1,4 @@
-# Module 9 - Intersectional Discrimination: Sexual Orientation and Gender Identity Discrimination as Sex Discrimination
+# Module 9 - Sexual Orientation and Gender Identity Discrimination
 
 ## Readings
 

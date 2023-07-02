@@ -1,4 +1,4 @@
-# Module 10 - Sexual Harassment as Sex Discrimination
+# Module 10 - Sexual Harassment
 
 ## Readings
 

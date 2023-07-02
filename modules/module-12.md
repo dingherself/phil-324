@@ -1,4 +1,4 @@
-# Module 12 - Barriers to School Facilities Access as Sex Discrimination?
+# Module 12 - Access to School Facilities
 
 ## Readings
 
@@ -11,7 +11,7 @@
 
 ## Lectures
 
-- Lecture 12: Boyertown ([part 1](https://youtu.be/adXT4by8GNk) \| [part 2](https://youtu.be/LJ2iKjST7D8) \| [handout](https://github.com/dingherself/phil-324/blob/main/handouts/12-boyertown.md))
+- Lecture 12: *Boyertown* ([part 1](https://youtu.be/adXT4by8GNk) \| [part 2](https://youtu.be/LJ2iKjST7D8) \| [handout](https://github.com/dingherself/phil-324/blob/main/handouts/12-boyertown.md))
 
 ## Assignment
 
