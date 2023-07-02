@@ -217,25 +217,24 @@ Ding (University of Arizona)
 
         -   Another worry is the civilly disobedient *act* itself and
             its *expression* could be separable.
-
             -   For example, can the *act* of civil disobedience take
                 place in private and then be *publicized* later? Or,
                 should we say it is the *publication* that is the
                 civilly disobedient act (it seems to violate no law)?
-
+        
     -   Must civil disobedience be *nonviolent*?
 
         -   Rawls' first reason: Violence is incompatible with civil
             disobedience as a mode of public address.
-    -   Rawls writes: "\[Civil disobedience\] tries to avoid the
+            -   Rawls writes: "\[Civil disobedience\] tries to avoid the
                 use of violence, especially against persons, not from
                 the abhorrence of the use of force in principle, but
                 because it is a final expression of one's case. . . .
                 Indeed, any interference with the civil liberties of
                 others tends to obscure the civilly disobedient quality
                 of one's act."
-        
-    -   This treatment seems too simplistic. Consider King's
+
+            -   This treatment seems too simplistic. Consider King's
                 distinction between *negative peace* and *positive
                 peace*. For King, negative peace is "the absence of
                 tension," whereas positive peace "presence of justice."
@@ -250,49 +249,49 @@ Ding (University of Arizona)
                 incompatible with civil disobedience as a mode of public
                 address.
     
--   Rawls' second reason: Nonviolence expresses one's fidelity
+        -   Rawls' second reason: Nonviolence expresses one's fidelity
             to law.
             -   But how does nonviolence expresses one's fidelity to
-        law? You might think, it does so by minimizing the bad
-                consequences of breaking the law.
-            
+            law? You might think, it does so by minimizing the bad
+            consequences of breaking the law.
+
             -   But this tracks the wrong distinction. Compare a
-        *nonviolent* strike of hospital workers, which may
-                result in really bad consequences, and a *violent* act
-                of civil disobedience which results in damage to windows
-                but no deaths or injuries. The violence/nonviolence
-                distinction is just not what's doing the work here.
-            
+            *nonviolent* strike of hospital workers, which may
+            result in really bad consequences, and a *violent* act
+            of civil disobedience which results in damage to windows
+            but no deaths or injuries. The violence/nonviolence
+            distinction is just not what's doing the work here.
+
         -   King's reason: Violence is morally wrong, and we can use it
-    to achieve justice.
-        
+        to achieve justice.
+
             -   On what grounds might someone think violence is morally
-        wrong? One answer is violence is *intrinsically* morally
-                wrong, regardless of the consequences of violence. But
-                this seems questionable. For example, is burning a flag
-                wrong (an act of violence to an object) *in and of
-                itself*?
+            wrong? One answer is violence is *intrinsically* morally
+            wrong, regardless of the consequences of violence. But
+            this seems questionable. For example, is burning a flag
+            wrong (an act of violence to an object) *in and of
+            itself*?
         
             -   Or, you might think violence is *instrumentally* morally
-        wrong based on the consequences it produces. But this
-                allows the possibility that, *all things considered*, an
-                act of violence can produce (overall or net) good
-                consequences (when the bad consequences are outweighed
-                by the good consequences).
+            wrong based on the consequences it produces. But this
+            allows the possibility that, *all things considered*, an
+            act of violence can produce (overall or net) good
+            consequences (when the bad consequences are outweighed
+            by the good consequences).
         
             -   Or, you might think violence is morally wrong because it
-        violates the liberties or rights of others. Of course,
-                violation of another person's liberty or right provides
-                *a* moral reason, but it's unclear that it provides a
-                *conclusive* moral reason---think about, say, cases of
-                self-defense.
+            violates the liberties or rights of others. Of course,
+            violation of another person's liberty or right provides
+            *a* moral reason, but it's unclear that it provides a
+            *conclusive* moral reason---think about, say, cases of
+            self-defense.
         
         -   The *Walker* Court's reason: Peace and order.
         
             -   Again, this cannot be a conclusive reason.
         
             -   It also fails to appreciate King's distinction between
-        negative and positive peace.
+            negative and positive peace.
 
 ## Justifying Civil Disobedience
 

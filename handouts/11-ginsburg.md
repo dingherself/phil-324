@@ -114,7 +114,7 @@ Ding (University of Arizona)
                 issue of gender inequality, Ginsburg writes, the Court
                 might have reached a different conclusion.
 
-## Question to Think About
+## Question to Think about
 
 -   How might reproductive autonomy be recognized doctrinally as an
     issue of gender equality?
