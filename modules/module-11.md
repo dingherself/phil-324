@@ -4,7 +4,6 @@
 
 - Module 11 reading guide
 - Cases: *Griswold v. Connecticut* (1965); *Roe v. Wade* (1973); *Doe v. Bolton* (1973); *Maher v. Roe* (1977); *Harris v. McRae* (1980); *Planned Parenthood v. Casey* (1992); *Whole Woman’s Health v. Hellerstedt* (2016); *June Medical Services v. Russo* (2020); *Dobbs v. Jackson Women’s Health Organization* (2022)
-- Podcast: Will Baude and Dan Epps, [“The Lightning Docket,”](https://www.dividedargument.com/episodes/the-lightning-docket) *Divided Argument*, podcast, 67 min
 - Ruth Bader Ginsburg, [“Some Thoughts on Autonomy and Equality in Relation to *Roe v. Wade*,”](https://scholarship.law.unc.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=2961&context=nclr) *North Carolina Law Review* (1987)
 
 ## Lectures

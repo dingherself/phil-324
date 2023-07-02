@@ -17,7 +17,7 @@ As you can imagine, this creates problems: for example, you want to be able to s
 
 Over the years, the *Ex parte Young* fiction has made a vast number of constitutional challenges possible. We will discuss *Roe v. Wade* later, but now you can understand why it was Henry Wade—the district attorney for Dallas County—who got sued: he was sued on behalf of the state of Texas because the Texas government itself could not be sued. Similarly, Thomas E. Dobbs, who led the Mississippi State Department of Health, was sued on behalf of the state in the lawsuit that became *Dobbs v. Jackson Women’s Health Organization* (it started out as *Jackson Women’s Health Organization v. Dobbs*, but because Mississippi lost in the lower courts, it became the petitioner when it asked the Supreme Court for certiorari).
 
-(There is an important caveat: the state can sue you (you don’t have sovereign immunity). In these cases, if you lose and you appeal, you might get case names like *Loving v. Virginia*, *Griswold v. Connecticut, Hoyt v. Florida*, and so on—cases that we will discuss in this course.)
+(There is an important caveat: the state can sue and prosecute you (you don’t have sovereign immunity). In these cases, if you lose and you appeal, you might get case names like *Loving v. Virginia*, *Griswold v. Connecticut, Hoyt v. Florida*, and so on—cases that we will discuss in this course.)
 
 Now, abortion becomes salient here because Texas discovered a loophole when it tried to ban abortion in the year leading up to *Dobbs*: notice that under the sovereign immunity doctrine, you can’t directly sue the state in order to challenge an unconstitutional statute; you have to find the state official(s) responsible for enforcing the law and sue them as agents acting on behalf of the state. So, Texas thought, *what if we enact an unconstitutional abortion ban but put no state officials in charge of enforcing it such that we can’t be sued*?
 
@@ -55,3 +55,4 @@ But this was still not the end of it. Over the abortion providers’ objection, 
 
 On the shadow docket, the U.S. Supreme Court, divided 6–3, refused to intervene. Then, on March 11, 2022, the Texas Supreme Court held that the state licensing officials actually don’t have enforcement authority under S.B. 8 (never mind what the U.S. Supreme Court had said), and so they can’t be sued after all!
 
+(If you are interested in learning more about these issues, I highly recommend this podcast episode: Will Baude and Dan Epps, [“The Lightning Docket,”](https://www.dividedargument.com/episodes/the-lightning-docket) *Divided Argument*, 67 min.)
