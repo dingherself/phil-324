@@ -161,7 +161,6 @@ Ding (University of Arizona)
         differential treatment* in the case of pregnancy discrimination
         because there is simply no one that women can be compared
         against.
-
         -   Some of you might wonder: Wait, isn't that really that the
             Court being cissexist? Wouldn't just realizing trans men,
             intersex people, and trans masculine nonbinary people exist solve the
@@ -578,13 +577,13 @@ Ding (University of Arizona)
         -   First, and, most obviously, it means binary/nonbinary trans
             men, trans masculine nonbinary people, and intersex people who do not
             identify as women have to choose between
-        1.  Not being able to be discriminated against on the basis
+            1.  Not being able to be discriminated against on the basis
                 of pregnancy at all because they are not women; and
             
-        2.  Being misgendered by the law in order to be seen as
+            2.  Being misgendered by the law in order to be seen as
                 worthy of being discriminated against on the basis of
                 pregnancy.
-            
+        
     -   But, second, this is not just a problem for binary/nonbinary
             trans men, trans masculine nonbinary people, and intersex people, but
             for *cis* men as well. *Newport v. EEOC* (1983) provides
