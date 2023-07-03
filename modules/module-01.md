@@ -27,4 +27,4 @@ Please also check out these useful sites (I mean it—do click on the links and 
 ## Assignment
 
 - Module 1 reading guide (due to D2L > Assignments)
-- Please sign up for discussion roles (first come, first choice!) (link to be posted here)
+- Please sign up for discussion roles by 11:59pm on Friday (first come, first choice!): https://uarizona.co1.qualtrics.com/jfe/form/SV_1Rg5yRggwcv1OBw
