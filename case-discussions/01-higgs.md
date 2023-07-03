@@ -8,4 +8,6 @@ As you might remember, during the last year of the Trump administration, the fed
 
 Please read the decision linked above (note the lack of reasoning from the majority; Justice Sotomayor’s dissent will give you more context). It seems that many of the problems with the Court’s disposition of stays of execution on its shadow docket are moral problems (that is, they are problems about what is right/wrong, just/unjust); at the same time, it seems that they do bear directly on the lawfulness of the execution (that is, they factor into whether the execution is legal/illegal, whether a court should allow the execution to go forward). **In this connection, how might *Higgs* shed light on the disagreement between legal positivism and natural law theory?**
 
+The grading standards for case discussions are [available here](https://github.com/dingherself/phil-324/blob/main/case-discussions/00-grading-standards.md).
+
 [Link to the D2L discussion board](https://d2l.arizona.edu/d2l/le/1294813/discussions/topics/1141699/View)
