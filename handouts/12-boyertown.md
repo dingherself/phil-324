@@ -317,7 +317,7 @@ Ding (University of Arizona)
         theoretical frameworks at our disposal:
 
         -   First, courts usually look to Title VII precedents in
-            interpreting Title VII. Following *Bostock*, then, we can
+            interpreting Title IX. Following *Bostock*, then, we can
             consider the question using the but-for test: If a trans
             student were assigned a different sex at birth, they would
             be allowed to access the restroom or locker room that aligns
