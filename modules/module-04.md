@@ -2,7 +2,7 @@
 
 ## Readings
 
-- Module 4 reading guide
+- [Module 4 reading guide](https://github.com/dingherself/phil-324/raw/main/reading-guides/04-reading-guide.docx)
 - Ronald Dworkin, [“The Model of Rules,”](https://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=3553&context=uclrev) *University of Chicago Law Review* (1967)
 
 ## Lectures
