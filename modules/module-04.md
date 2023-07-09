@@ -15,4 +15,4 @@
 
 ## Case Discussion
 
-- *Shinn v. Ramirez* (2022)
+- [*Shinn v. Ramirez* (2022)](https://github.com/dingherself/phil-324/blob/main/case-discussions/02-shinn.md) (post to D2L > Discussions)
