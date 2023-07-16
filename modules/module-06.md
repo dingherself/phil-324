@@ -17,4 +17,4 @@
 
 ## Case Discussion
 
-- *Wooden v. United States* (2022)
+- [*Wooden v. United States* (2022)](https://github.com/dingherself/phil-324/blob/main/case-discussions/03-wooden.md) (post to D2L > Discussions)
