@@ -17,3 +17,7 @@ Please read (in this order):
   - Justice Gorsuch’s separate concurrence in the judgment, sec. 1
 
 **Discussion question: In light of our discussion of statutory interpretation, how do you think the phrase “committed on occasions different from one another” should be interpreted?**
+
+The grading standards for case discussions are [available here](https://github.com/dingherself/phil-324/blob/main/case-discussions/00-grading-standards.md).
+
+[Link to the D2L discussion board](https://d2l.arizona.edu/d2l/le/1294813/discussions/topics/1143854/View)
