@@ -2,7 +2,7 @@
 
 ## Readings
 
-- Module 5 reading guide
+- [Module 5 reading guide](https://github.com/dingherself/phil-324/raw/main/reading-guides/05-reading-guide.docx)
 - Two constitutional interpretation cases: *Plessy v. Ferguson* (1896); *Brown v. Board of Education* (1954)
 - A statutory interpretation case: [*Smith v. United States*](https://www.loc.gov/item/usrep508223/) (1993)
 - In Amy Gutmann, ed., *A Matter of Interpretation: Federal Courts and the Law* (1997):
