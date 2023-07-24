@@ -17,4 +17,4 @@
 
 ## Case Discussion
 
-- *Sessions v. Morales-Santana* (2017) (I will post the prompt here soon)
+- [*Sessions v. Morales-Santana* (2017)](https://github.com/dingherself/phil-324/blob/main/case-discussions/04-morales-santana.md)
