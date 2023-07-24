@@ -2,7 +2,7 @@
 
 ## Readings
 
-- Module 8 reading guide
+- [Module 8 reading guide](https://github.com/dingherself/phil-324/raw/main/reading-guides/08-reading-guide.docx)
 - Kimberlé Crenshaw, [“Demarginalizing the Intersection of Race and Sex: A Black Feminist Critique of Antidiscrimination Doctrine, Feminist Theory and Antiracist Politics,”](https://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=1052&context=uclf) *University of Chicago Legal Forum* (1989)
 - Catharine MacKinnon, *Sexual Harassment of Working Women: A Case of Sex Discrimination* (1979), chap. 5
 
@@ -17,4 +17,4 @@
 
 ## Case Discussion
 
-- *Sessions v. Morales-Santana* (2017)
+- *Sessions v. Morales-Santana* (2017) (I will post the prompt here soon)

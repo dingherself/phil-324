@@ -5,7 +5,7 @@ Ding (University of Arizona)
 
 ## Our Questions
 
-1.  *Delineation*: What count as civil disobedience?
+1.  *Delineation*: What counts as civil disobedience?
 
     -   What distinguishes civil disobedience from *ordinary legal
         demonstrations*?
