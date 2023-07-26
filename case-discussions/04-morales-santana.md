@@ -20,10 +20,10 @@ Both women then on the Court dissented. Justice O’Connor’s dissent strongly 
 
 The case we will discuss this week follows up on this 2001 decision. [*Sessions v. Morales-Santana* (2017)](https://www.supremecourt.gov/opinions/16pdf/15-1191_2a34.pdf) concerned another differential requirement:
 
-- Federal immigration law confers citizenship to a child born abroad to a citizen parent *married* to a non-citizen parent if the citizen parent was physically present in the United States for 10 years (at least 5 of which must be after the citizen parent’s 14th birthday) prior to the child’s birth.
-- While the same physical presence requirement applies to a child born aboard to an *unmarried citizen father*, Congress made an exception for unmarried citizen *mothers* such that “a continuous period of one year” is sufficient.
+- Federal immigration law confers citizenship to a child born abroad to a citizen parent *married* to a non-citizen parent if the citizen parent was physically present in the United States for 10 years (at least 5 of which must be after the citizen parent’s 14th birthday) prior to the child’s birth. The same physical presence requirement applies to a child born abroad to an *unmarried citizen father*.
+- For unmarried citizen *mothers*, however, “a continuous period of one year” is sufficient for passing citizenship to their children born abroad.
 
-This time, the Court found the differential requirement unconstitutional, but it got hung up on remedies: for the Court, Justice Ginsburg wrote that the right thing to do here was to strike down the shortened period for unmarried citizen mothers, such that the longer period would apply across the board—indeed, Justice Ginsburg argued that this was necessitated “by the legislature’s intent, as revealed by the statute at hand.”
+This time, the Court found the differential requirement unconstitutional, but it got hung up on remedy: for the Court, Justice Ginsburg wrote that the right thing to do here was to strike down the shortened period for unmarried citizen mothers, such that the longer period would apply across the board—indeed, Justice Ginsburg argued that this was necessitated “by the legislature’s intent, as revealed by the statute at hand.” In other words, in ruling *for* Mr. Morales-Santana (whose citizen father fell 20 days short of the 10-year physical presence requirement), the Court denied him the protection he sought from deportation.
 
 **Please read Justice Ginsburg’s majority opinion in *Morales-Santana* linked above (be smart about which parts to skim!). In light of our class discussion this week, how do you think MacKinnon would respond to *Morales-Santana*? Would you agree with her, and why or why not?**
 
