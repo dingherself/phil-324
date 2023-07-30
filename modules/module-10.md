@@ -15,4 +15,4 @@
 
 ## Case Discussion
 
-- *Frappied v. Affinity Gaming Black Hawk* (10th Cir. 2020)
+- [*Frappied v. Affinity Gaming Black Hawk* (10th Cir. 2020) ](https://github.com/dingherself/phil-324/blob/main/case-discussions/05-frappied.md)(post to D2L > Discussions)
