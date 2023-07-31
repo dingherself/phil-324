@@ -2,7 +2,7 @@
 
 ## Readings
 
-- Module 9 reading guide
+- [Module 9 reading guide]((https://github.com/dingherself/phil-324/raw/main/reading-guides/09-reading-guide.docx))
 - [*Bostock v. Clayton County*](https://www.supremecourt.gov/opinions/19pdf/17-1618_hfci.pdf) (2020) (all page numbers refer to the slip opinion pdf, not the actual page number in the margin):
 	- Opinion of the Court, pp. 5–11, 11–13 (skim), 13–16, 19–37
 	- Justice Alito’s dissent, pp. 38–41 (skim), 47–48, 51–54, 57–58, 60, 62 (under the “B” heading), 92–144 (look at the titles of the Appendices, scroll down the page, but do not read)
