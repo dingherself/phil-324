@@ -2,7 +2,7 @@
 
 ## Readings
 
-- Module 12 reading guide
+- [Module 12 reading guide](https://github.com/dingherself/phil-324/raw/main/reading-guides/12-reading-guide.docx)
 - CN Lester, *Trans Like Me: Conversations for All of Us* (2018), chaps. 4, 10
 - [*Doe v. Boyertown Area School District*](http://www2.ca3.uscourts.gov/opinarch/173113ppan.pdf) (3d Cir. 2018)
 - Note, [“Doe ex rel. Doe v. Boyertown Area School District,”](https://harvardlawreview.org/2019/05/doe-ex-rel-doe-v-boyertown-area-school-district/) *Harvard Law Review* (2019)
