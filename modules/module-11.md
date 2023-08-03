@@ -10,7 +10,7 @@
 
 - Lecture 11.1: Reproductive Freedom ([part 1](https://youtu.be/Ew21ZjJ2ing) \| [part 2](https://youtu.be/VZkcdxJF_T8) \| [part 3](https://youtu.be/sBmGp1hmyBY) \| [handout](https://github.com/dingherself/phil-324/blob/main/handouts/11-reproductive-freedom.md))
 - Lecture 11.2: Ginsburg ([video](https://youtu.be/2ykEmmiYXpg) \| [handout](https://github.com/dingherself/phil-324/blob/main/handouts/11-ginsburg.md))
-- [Supplemental notes on *Dobbs*](https://github.com/dingherself/phil-324/blob/main/handouts/11-dobbs.md)
+- [Supplemental note on *Dobbs*](https://github.com/dingherself/phil-324/blob/main/handouts/11-dobbs.md)
 
 ## Assignment
 

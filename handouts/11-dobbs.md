@@ -1,4 +1,4 @@
-# Supplemental Notes on *Dobbs*
+# Supplemental Note on *Dobbs*
 
 PHIL 324: Law and Morality\
 Ding (University of Arizona)
