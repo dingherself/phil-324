@@ -19,4 +19,4 @@
 
 ## Case Discussion
 
-- *Toomey v. Arizona*, No. 19-cv-35 (D. Ariz. filed Jan. 23, 2019)
+- [*Toomey v. Arizona*, No. 19-cv-35 (D. Ariz. filed Jan. 23, 2019)](https://github.com/dingherself/phil-324/blob/main/case-discussions/06-toomey.md) (post to D2L > Discussions)
