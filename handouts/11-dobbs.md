@@ -7,7 +7,7 @@ Since I recorded the lectures for this course in the Summer of 2021, there have 
 
 For our purposes, we will focus on the *Dobbs* Court’s substantive due process analaysis. Recall from the readings and lectures of this module that *Roe*, as interpreted by *Casey*, found the right to abortion not in the Equal Protection Clause, but in the Due Process Clause. This means the Court conceptualized abortion largely as an issue of privacy/autonomy, rather than an issue of gender equality.
 
-As we discussed this week, the Court has adopted a similar tier-of-scrutiny framework to guide its substantive due process analysis. While a mere *liberty interest* receives only rational basis review, a *fundamental right* gets strict scurtiny. There is, then, a very non-trivial question about when a given liberty interest amounts to a fundamental right, when the Constitution does not explicitly mention that right (a right like this is called an *implied*, as opposed to enumerated, fundamental right).
+As we discussed this week, the Court has adopted a similar tier-of-scrutiny framework to guide its substantive due process analysis. While a mere *liberty interest* receives only rational basis review, a *fundamental right* gets strict scrutiny. There is, then, a very non-trivial question about when a given liberty interest amounts to a fundamental right, when the Constitution does not explicitly mention that right (a right like this is called an *implied*, as opposed to enumerated, fundamental right).
 
 One way to think about the approach the Court took in the *Griswold*-*Roe*-*Casey* line of cases is that it was largely a *conceptual* analysis. The *Roe* Court did this, for example, when it held:
 
