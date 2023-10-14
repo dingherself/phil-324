@@ -8,12 +8,12 @@
 
 **Phil/PA/Pol 324: Law and Morality**\
 Asynchronous Online, University of Arizona\
-Summer 2023, 7 Week 2 (July 3–August 18)
+Winter 2023, December 18, 2023–January 9, 2024
 
 **Instructor**: [Ding](https://www.dingherself.com) (they/she)\
 **Email**: [din@arizona.edu](mailto:din@arizona.edu)\
 **Office**: Social Sciences 138\
-**Office hours**: By appointment, online (video/audio/Discord chat) or in person
+**Office hours**: By appointment, online (video/audio/chat)
 
 This course is an introduction to the philosophy of law in general and feminist philosophy of law in particular. We will consider several significant philosophical issues at the intersection of law and morality and explore their jurisprudential implications. Topics will include the nature of law, judicial discretion, constitutional and statutory interpretation, civil disobedience, racial equality, gender equality, sexual harassment, reproductive freedom, and LGBTQ+ equality.
 

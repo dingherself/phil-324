@@ -1,13 +1,13 @@
-# Phil 324: Law and Morality (Summer 2023)
+# Phil 324: Law and Morality (Winter 2023)
 
 N.B. To view the table of contents, click on the outline icon on the upper right corner.
 
 ## Contact Information
 
-**Instructor**: [Ding](https://www.dingherself.com) (my pronouns are [they/them](https://apastyle.apa.org/blog/singular-they) and she/her; I don’t use a last name)\
+**Instructor**: [Ding](https://www.dingherself.com) (my pronouns are [they/them](https://apastyle.apa.org/blog/singular-they) and she/her)\
 **Email**: [din@arizona.edu](mailto:din@arizona.edu)\
 **Office**: Social Sciences 138\
-**Office hours**: By appointment, online (video/audio/Discord chat) or in person
+**Office hours**: By appointment, online (video/audio/chat)
 
 ## Course Overview and Objectives
 
