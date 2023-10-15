@@ -1,6 +1,6 @@
 # PHIL 324: Winter 2023 Schedule
 
-N.B. This is a *suggested* schedule; you may want to shift when you plan to complete each module depending on your own plans for the winter (but you must complete the course by the last day of class, January 9, 2024, unless you make a special arrangement with me ahead of time).
+N.B. This is a *suggested* schedule; you may want to shift when you plan to complete each module depending on your own plans for the winter (but you must complete all required assignments by the last day of class, January 9, 2024, unless you make special arrangements with me ahead of time—please contact me as soon as you can if you know you cannot complete the course on time).
 
 | Date |  Modules | Assignments |
 |--------|----------|-------------|
