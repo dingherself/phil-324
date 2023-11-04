@@ -1,0 +1,7 @@
+# (Lack of) Diversity in Philosophy
+
+Unfortunately, philosophy as an institutionalized discipline is remarkably white, cis male, straight, able-bodied, and middle-class. This lack of diversity is often apparent just from the topics and authors typically taught in introductory philosophy courses. However, philosophy as a whole is becoming more and more diverse thanks to the efforts of several generations of philosophers. As a philosophy student, you can also help the profession address its diversity and inclusiveness problems by seriously engaging with minority authors and supporting your fellow minority students.
+
+The American Philosophical Association (APA) has a useful handout for minority undergraduate students in philosophy, which you can read here: <https://www.apaonline.org/resource/resmgr/diversity/Advice_for_Undergrads.pdf>.
+
+A valuable local opportunity is the Arizona Feminist Philosophy Graduate Conference organized annually by graduate students at the UA Department of Philosophy. The conference brings together graduate students working on feminist issues from around the country and the world. The recordings of many talks in the past are available freely on the conference website: <https://femphilaz.com>.
