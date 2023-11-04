@@ -19,7 +19,7 @@ This course is an introduction to the philosophy of law in general and feminist 
 
 N.B. If the dark theme makes reading difficult, you can switch your operating system to light mode, or if you are logged into your GitHub account, change your [account settings](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-personal-account-settings/managing-your-theme-settings) accordingly.
 
-<p align="center"><strong><a href="https://github.com/dingherself/phil-324/blob/main/syllabus.md">syllabus</a></strong> &VerticalLine; <strong><a href="https://github.com/dingherself/phil-324/blob/main/schedule.md">schedule</a></strong> &VerticalLine; <strong><a href="https://d2l.arizona.edu/d2l/home/1294813">D2L site</a></strong></p>
+<p align="center"><strong><a href="https://github.com/dingherself/phil-324/blob/main/course-policies/01-syllabus.md">syllabus</a></strong> &VerticalLine; <strong><a href="https://github.com/dingherself/phil-324/blob/main/schedule.md">schedule</a></strong> &VerticalLine; <strong><a href="https://d2l.arizona.edu/d2l/home/1294813">D2L site</a></strong></p>
 
 <p align="center">&#42;&nbsp;&nbsp;&#42;&nbsp;&nbsp;&#42;</p>
 
