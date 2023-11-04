@@ -1,5 +1,7 @@
 # Syllabus for Phil 324: Law and Morality (Winter 2023)
 
+N.B. If the dark theme makes reading difficult, you can switch your operating system to light mode, or if you are logged into your GitHub account, change your [account settings](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-personal-account-settings/managing-your-theme-settings) accordingly.
+
 **Instructor**: [Ding](https://www.dingherself.com) (my pronouns are [they/them](https://apastyle.apa.org/blog/singular-they) and she/her)\
 **Email**: [din@arizona.edu](mailto:din@arizona.edu)\
 **Office**: Social Sciences 138\
