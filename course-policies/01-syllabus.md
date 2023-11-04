@@ -14,8 +14,8 @@
 - [Assessment](https://github.com/dingherself/phil-324/blob/main/course-policies/06-assessment.md)
 - [Academic Integrity](https://github.com/dingherself/phil-324/blob/main/course-policies/07-academic-integrity.md)
 - [(Lack of) Diversity in Philosophy](https://github.com/dingherself/phil-324/blob/main/course-policies/08-lack-of-diversity-in-philosophy.md)
-- [Respect, Support, and Care for One Another](https://github.com/dingherself/phil-324/blob/main/course-policies/09-student-support-resources.md)
-- [Student Support Resources](https://github.com/dingherself/phil-324/blob/main/course-policies/10-respect-support-and-care-for-one-another.md)
+- [Respect, Support, and Care for One Another](https://github.com/dingherself/phil-324/blob/main/course-policies/09-respect-support-and-care-for-one-another.md)
+- [Student Support Resources](https://github.com/dingherself/phil-324/blob/main/course-policies/10-student-support-resources.md)
 - [Accessibility and Accommodations](https://github.com/dingherself/phil-324/blob/main/course-policies/11-accessibility-and-accommodations.md)
 - [Absence and Class Participation](https://github.com/dingherself/phil-324/blob/main/course-policies/12-absence-and-class-participation.md)
 
