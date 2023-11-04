@@ -10,7 +10,7 @@
 - [Course Overview and Objectives](https://github.com/dingherself/phil-324/blob/main/course-policies/02-course-overview-and-objectives.md)
 - [Expected Learning Outcomes](https://github.com/dingherself/phil-324/blob/main/course-policies/03-expected-learning-outcomes.md)
 - [Required Texts](https://github.com/dingherself/phil-324/blob/main/course-policies/04-required-texts.md)
-- [Teaching Format, Suggestions, and Expectations](https://github.com/dingherself/phil-324/blob/main/course-policies/05-teaching-format-suggestions-and-expectations.md)
+- [Course Structure, Suggestions, and Expectations](https://github.com/dingherself/phil-324/blob/main/course-policies/05-course-structure-suggestions-and-expectations.md)
 - [Assessment](https://github.com/dingherself/phil-324/blob/main/course-policies/06-assessment.md)
 - [Academic Integrity](https://github.com/dingherself/phil-324/blob/main/course-policies/07-academic-integrity.md)
 - [(Lack of) Diversity in Philosophy](https://github.com/dingherself/phil-324/blob/main/course-policies/08-lack-of-diversity-in-philosophy.md)

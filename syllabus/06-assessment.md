@@ -12,18 +12,18 @@ If at any point you have any questions about the logistics of the course, please
 
 ## Requirements for Letter Grades
 
-|      | Reading Guides                                               | Module Quizzes                                               | Case Discussions                                             | Good Citizenship                                             |
+|      | [Reading Guides](https://github.com/dingherself/phil-324/blob/main/syllabus/06-assessment.md#case-discussions) | [Module Quizzes](https://github.com/dingherself/phil-324/blob/main/syllabus/06-assessment.md#case-discussions) | [Case Discussions](https://github.com/dingherself/phil-324/blob/main/syllabus/06-assessment.md#case-discussions) | [Good Citizenship](https://github.com/dingherself/phil-324/blob/main/syllabus/09-respect-support-and-care-for-one-another.md) |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| A    | Earn a **check-plus** on all **ten** required reading guides. | Earn a **check-plus** on all **ten** required module quizzes. | Earn a **check-plus** on all **four** required case discussions. | Participate in the course in ways that demonstrate **respect, support, and care** for your classmates and instructor. |
-| B    | Earn at least a **check** on all ten required reading guides. | Earn at least a **check** on all ten required module quizzes. | Earn at least a **check** on all four required case discussions. | Participate in the course in ways that demonstrate respect, support, and care for your classmates and instructor. |
-| C    | Earn at least a check on **eight** of the ten required reading guides. | Earn at least a check on **eight** of the ten required module quizzes. | Earn at least a check on **three** of the required case discussions. | Participate in the course in ways that for the most part demonstrate respect, support, and care for your classmates and instructor. |
-| D    | Earn at least a check on **six** of the ten required reading guides. | Earn at least a check on **six** of the ten required module quizzes. | Earn at least a check on **two** of the required case discussions. | Participate in the course in ways that for the most part demonstrate respect, support, and care for your classmates and instructor, **despite a pattern of disruptive, harassing, intimidating, or otherwise inappropriate behavior**. |
+| A    | Earn a **check-plus** on all **ten** required reading guides. | Earn a **check-plus** on all **ten** required module quizzes. | Earn a **check-plus** on all **two** required case discussions. | Participate in the course in ways that demonstrate **respect, support, and care** for your classmates and instructor. |
+| B    | Earn at least a **check** on all ten required reading guides. | Earn at least a **check** on all ten required module quizzes. | Earn at least a **check** on all two required case discussions. | Participate in the course in ways that demonstrate respect, support, and care for your classmates and instructor. |
+| C    | Earn at least a check on **eight** of the ten required reading guides. | Earn at least a check on **eight** of the ten required module quizzes. | Earn at least a check on **one** of the required case discussions. | Participate in the course in ways that for the most part demonstrate respect, support, and care for your classmates and instructor. |
+| D    | Earn at least a check on **six** of the ten required reading guides. | Earn at least a check on **six** of the ten required module quizzes. | Earn at least a check on one of the required case discussions. | Participate in the course in ways that for the most part demonstrate respect, support, and care for your classmates and instructor, **despite a pattern of disruptive, harassing, intimidating, or otherwise inappropriate behavior**. |
 
 A grade of E/F will be assigned in cases where a student
 
 1. fails to earn a check on six of the ten required reading guides;
 2. fails to earn at least a check on six of the ten required module quizzes;
-3. fails to earn at least a check on two of the required case discussions;
+3. fails to earn at least a check on one of the required case discussions;
 4. fails to demonstrate respect, support, and care for their classmates and instructor through behavior that threatens the safety of the class or otherwise seriously disrupts the classroom environment; or
 5. fails to comply with course policies on academic integrity.
 
@@ -71,4 +71,4 @@ If you decide to complete more than the ten required modules, only the ten highe
 
 ### Completing Extra Case Discussions
 
-Likewise, if you decide to complete more than the four required case discussions, only the ten highest grades you receive on the case discussions will count for purposes of the letter grade requirements.
+Likewise, if you decide to complete more than the two required case discussions, only the two highest grades you receive on the case discussions will count for purposes of the letter grade requirements.

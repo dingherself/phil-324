@@ -1,4 +1,4 @@
-# Teaching Format, Suggestions, and Expectations
+# Course Structure, Suggestions, and Expectations
 
 As our course will be delivered entirely online in an asynchronous format, it’s really important that you understand how the course works, how best to approach it, and what is expected of you.
 
@@ -16,9 +16,9 @@ Our course is divided into two parts, each of which consists of six modules. The
 - For each module, you are expected to do all assigned readings as you follow and complete the reading guide, watch all assigned lectures, and take the module quiz.
 - Each part also has three or four case discussions, which invite you to examine the implications of the course materials for recent cases decided by the U.S. Supreme Court and federal appellate courts.
 
-You are required to complete any ten of the twelve modules and any four of the seven case discussions. However, some modules and case discussions will inevitably draw on materials covered in earlier modules. My suggestion is to complete all of Modules 1–3 and 7–9, any four of Modules 4–6 and 10–12, and then any four of the case discussions that are relevant to the modules you have elected (see here). You are welcome to complete more than the required modules for purposes of extra credit, as explained here.
+You are required to complete any ten of the twelve modules and any two of the seven case discussions. However, some modules and case discussions will inevitably draw on materials covered in earlier modules. My suggestion is to complete all of Modules 1–3 and 7–9, any four of Modules 4–6 and 10–12, and then any four of the case discussions that are relevant to the modules you have elected (see [here](https://github.com/dingherself/phil-324/blob/main/syllabus/06-assessment.md#case-discussions)). You are welcome to complete more than the required modules for purposes of extra credit, as explained [here](https://github.com/dingherself/phil-324/blob/main/syllabus/06-assessment.md#case-discussions).
 
-There is no firm deadline by which you must complete each individual assignment. But you must complete all course requirements by the last day of class, January 9, 2024, unless you make special arrangements with me ahead of time—please contact me as soon as you can if you know you cannot complete the course on time. You can find a suggested schedule here.
+There is no firm deadline by which you must complete each individual assignment. But you must complete all course requirements by **the last day of class, January 9, 2024**, unless you make special arrangements with me ahead of time—please contact me as soon as you can if you know you cannot complete the course on time. You can find a suggested schedule here.
 
 ## Workload
 
