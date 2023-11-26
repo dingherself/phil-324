@@ -17,7 +17,7 @@ Winter 2023, December 18, 2023–January 9, 2024
 
 This course is an introduction to the philosophy of law in general and feminist philosophy of law in particular. We will consider several significant philosophical issues at the intersection of law and morality and explore their jurisprudential implications. Topics will include the nature of law, judicial discretion, constitutional and statutory interpretation, civil disobedience, racial equality, gender equality, sexual harassment, reproductive freedom, and LGBTQ+ equality.
 
-<p align="center"><strong><a href="https://github.com/dingherself/phil-324/blob/main/syllabus/01-course-information.md">syllabus</a></strong> &VerticalLine; <strong><a href="https://github.com/dingherself/phil-324/blob/main/schedule.md">schedule</a></strong> &VerticalLine; <strong><a href="https://d2l.arizona.edu/d2l/home/1294813">D2L site</a></strong></p>
+<p align="center"><strong><a href="https://github.com/dingherself/phil-324/blob/main/syllabus.md">syllabus</a></strong> &VerticalLine; <strong><a href="https://github.com/dingherself/phil-324/blob/main/schedule.md">schedule</a></strong> &VerticalLine; <strong><a href="https://d2l.arizona.edu/d2l/home/1294813">D2L site</a></strong></p>
 
 <p align="center">&#42;&nbsp;&nbsp;&#42;&nbsp;&nbsp;&#42;</p>
 
