@@ -172,9 +172,9 @@ You can earn a 10% extra credit on two of your module quizzes by watching any of
 
 Talks that are particularly relevant to our course include Professor Connie Rosati (now of UT Austin)’s 2020 keynote on *Obergefell* (the 2015 U.S. Supreme Court case that declared bans on same-sex marriage unconstitutional), Professor Gina Schouten (Harvard)’s 2021 keynote on liberal feminism, RJ Krabbendam (Tilburg)’s 2021 talk on affective injustice, and Joan O’Bryan (Stanford)’s 2022 paper on Beauvoir, MacKinnon, and Butler. But you should feel free to pick whichever talk you find most interesting!
 
-#### Revising First Case Discussion
+#### Revising Your First Case Discussion
 
-If you did not receive a check or a check-plus on your *first* case discussion, you will have the option to submit a revision in light of the feedback received. The revision must be *substantial* (it’s not enough to simply change a few words here and there), and it must be accompanied by a *revision cover letter*, in which you will have the opportunity to elaborate on how the revision has addressed and incorporated the feedback.
+If you did not receive a check or a check-plus on your *first* case discussion, you will have the option to submit a revision in light of the feedback received. The revision must be *substantial* (it’s not enough to simply change a few words here and there), and it must be accompanied by a *revision cover letter* (one-page, single spaced), in which you will be asked to elaborate on how the revision has addressed and incorporated the feedback.
 
 If you decide to revise your first case discussion, you must submit the revised version, along with the cover letter, by **the last day of class, January 9, 2024**. Note that if you turn in your first case discussion too close to that deadline, I may not have the chance to provide feedback in time for your revision in the first place.
 
