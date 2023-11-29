@@ -135,7 +135,7 @@ Some of the reading guide questions are **bolded**. If a question is bolded, you
 
 To earn a *check-plus* on a reading guide, you are asked to
 
-1. write the page numbers of the relevant passages next to the unbolded questions (you don’t need to write out the answer);
+1. write the page numbers of the relevant passages next to the unbolded questions (you don’t need to write out the answers to the unbolded questions);
 2. leave questions/comments/reactions to the reading as you answer the reading guide questions; and
 3. go back to the reading guide after watching my lectures and revise your answers to the bolded questions (please leave your original answers there and use a different color or font to clearly identify the revision).
 
