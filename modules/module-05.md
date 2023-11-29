@@ -21,10 +21,8 @@
 
 - Lecture 5.2: Scalia & Dworkin ([part 1](https://youtu.be/GK1DN3h5tCk) \| [part 2](https://youtu.be/LsVEzgCGlok) \| [part 3](https://youtu.be/W1Mr8zLyQw4) \| [handout](https://github.com/dingherself/phil-324/blob/main/handouts/05-scalia-dworkin.md))
 
-## Assignment
+## Assignments
 
 - Module 5 reading guide (due to D2L > Assignments)
-
-## Case Discussion
-
-- [*Wooden v. United States*](https://github.com/dingherself/phil-324/blob/main/case-discussions.md#one-burglary-or-ten-module-5), 595 U.S. 360, 142 S. Ct. 1063 (2022)
+- Module 5 quiz (D2L > Quizzes)
+- Case discussion: [*Wooden v. United States*](https://github.com/dingherself/phil-324/blob/main/case-discussions.md#one-burglary-or-ten-module-5), 595 U.S. 360, 142 S. Ct. 1063 (2022) (due to D2L > Assignments)

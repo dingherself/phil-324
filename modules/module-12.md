@@ -14,10 +14,8 @@
 
 - Lecture 12: *Boyertown* ([part 1](https://youtu.be/adXT4by8GNk) \| [part 2](https://youtu.be/LJ2iKjST7D8) \| [handout](https://github.com/dingherself/phil-324/blob/main/handouts/12-boyertown.md))
 
-## Assignment
+## Assignments
 
 - Module 12 reading guide (due to D2L > Assignments)
-
-## Case Discussion
-
-- [*L.W. v. Skrmetti*](https://github.com/dingherself/phil-324/blob/main/case-discussions.md#gender-affirming-care-modules-1112), 83 F.4th 460 (6th Cir. 2023), *petition for cert. filed*, No. 23-466 (U.S. Nov. 1, 2023)
+- Module 12 quiz (D2L > Quizzes)
+- Case discussion: [*L.W. v. Skrmetti*](https://github.com/dingherself/phil-324/blob/main/case-discussions.md#gender-affirming-care-modules-1112), 83 F.4th 460 (6th Cir. 2023), *petition for cert. filed*, No. 23-466 (U.S. Nov. 1, 2023) (due to D2L > Assignments)

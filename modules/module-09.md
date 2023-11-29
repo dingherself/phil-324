@@ -12,6 +12,7 @@
 
 - Lecture 9: *Bostock* ([part 1](https://youtu.be/LK_RbmhT9y4) \| [part 2](https://youtu.be/oUuQ3MQj4yQ) \| [handout](https://github.com/dingherself/phil-324/blob/main/handouts/09-bostock.md))
 
-## Assignment
+## Assignments
 
 - Module 9 reading guide (due to D2L > Assignments)
+- Module 9 quiz (D2L > Quizzes)

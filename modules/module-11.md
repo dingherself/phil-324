@@ -16,6 +16,7 @@
 - Lecture 11.2: Ginsburg ([video](https://youtu.be/2ykEmmiYXpg) \| [handout](https://github.com/dingherself/phil-324/blob/main/handouts/11-ginsburg.md))
 - [Supplemental note on *Dobbs*](https://github.com/dingherself/phil-324/blob/main/handouts/11-dobbs.md)
 
-## Assignment
+## Assignments
 
 - Module 11 reading guide (due to D2L > Assignments)
+- Module 11 quiz (D2L > Quizzes)

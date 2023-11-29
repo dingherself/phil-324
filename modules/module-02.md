@@ -17,10 +17,8 @@ As a reminder, if a reading is not linked here, you can find it in the Box folde
 - Lecture 2.1: Aquinas ([video](https://youtu.be/RQVr0MH-UkU) \| [handout](https://github.com/dingherself/phil-324/blob/main/handouts/02-aquinas.md))
 - Lecture 2.2: Austin ([video](https://youtu.be/tnZG4amlQ1Q) \| [handout](https://github.com/dingherself/phil-324/blob/main/handouts/02-austin.md))
 
-## Assignment
+## Assignments
 
 - Module 2 reading guide (due to D2L > Assignments)
-
-## Case Discussion
-
-- [*United States v. Higgs*](https://github.com/dingherself/phil-324/blob/main/case-discussions.md#death-on-the-shadow-docket-modules-12), 141 S. Ct. 645 (2021)
+- Module 2 quiz (D2L > Quizzes)
+- Case discussion: [*United States v. Higgs*](https://github.com/dingherself/phil-324/blob/main/case-discussions.md#death-on-the-shadow-docket-modules-12), 141 S. Ct. 645 (2021) (due to D2L > Assignments)

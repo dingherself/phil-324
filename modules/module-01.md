@@ -23,3 +23,8 @@ Please also check out these useful sites (I mean it—do click on the links and 
 - [Supplemental note on the sovereign immunity doctrine](https://github.com/dingherself/phil-324/blob/main/handouts/01-sovereign-immunity.md)
 
 (I’m sorry for saying “um” very many times in these recordings. I’m working on that. It feels very unnatural to be talking into a machine in front of you...)
+
+## Assignments
+
+- Module 1 reading guide (due to D2L > Assignments)
+- Module 1 quiz (D2L > Quizzes)

@@ -11,10 +11,8 @@
 - Lecture 8.1: Crenshaw ([part 1](https://youtu.be/1hI8Y5Ws_AI) \| [part 2](https://youtu.be/MgdizBtUxzI) \| [handout](https://github.com/dingherself/phil-324/blob/main/handouts/08-crenshaw.md))
 - Lecture 8.2: MacKinnon ([part 1](https://youtu.be/oAaxzeV0MZg) \| [part 2](https://youtu.be/nJ97Rnfu-ng) \| [handout](https://github.com/dingherself/phil-324/blob/main/handouts/08-mackinnon.md))
 
-## Assignment
+## Assignments
 
 - Module 8 reading guide (due to D2L > Assignments)
-
-## Case Discussion
-
-- [*Sessions v. Morales-Santana*, 582 U.S. 47 (2017)]((https://github.com/dingherself/phil-324/blob/main/case-discussions.md#gender-based-citizenship-requirements-modules-78))
+- Module 8 quiz (D2L > Quizzes)
+- Case discussion: [*Sessions v. Morales-Santana*, 582 U.S. 47 (2017) ]((https://github.com/dingherself/phil-324/blob/main/case-discussions.md#gender-based-citizenship-requirements-modules-78)) (due to D2L > Assignments)

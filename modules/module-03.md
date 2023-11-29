@@ -11,6 +11,7 @@
 - Lecture 3.1: Hart ([part 1](https://youtu.be/UszLmeOqV_c) \| [part 2](https://youtu.be/g31IKmUGPec) \| [handout](https://github.com/dingherself/phil-324/blob/main/handouts/03-hart.md))
 - Lecture 3.2: Fuller ([video](https://youtu.be/HtzstttpJGE) \| [handout](https://github.com/dingherself/phil-324/blob/main/handouts/03-fuller.md))
 
-## Assignment
+## Assignments
 
 - Module 3 reading guide (due to D2L > Assignments)
+- Module 3 quiz (D2L > Quizzes)
