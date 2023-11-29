@@ -119,7 +119,7 @@ This time, the Court found the differential requirement unconstitutional, but it
 
 **Please read Justice Ginsburg’s majority opinion in *Morales-Santana* linked above (be smart about which parts to skim!). Then, please write a short essay (2–3 pages, double spaced) critically discussing how you think MacKinnon would respond to *Morales-Santana*—would you agree with her, and why or why not? **Be sure to review the [checklist]((https://github.com/dingherself/phil-324/blob/main/case-discussions.md#checklist)) above.
 
-## Discrimination against Older Women (Modules 9–10): Frappied v. Affinity Gaming Black Hawk* (10th Cir. 2020)
+## Discrimination against Older Women (Modules 9–10): *Frappied v. Affinity Gaming Black Hawk* (10th Cir. 2020)
 
 By now, we have introduced Crenshaw’s now-classic critique of the courts’ failure to conceptualize intersectional discrimination against Black women. We have also just considered two more intersectional forms of discrimination—sexual harassment (sex/gender, sexuality, and class) and LGBTQ+ discrimination (sex/gender, sexual orientatition, and gender identity).
 
