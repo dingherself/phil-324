@@ -145,17 +145,22 @@ For each module, there will be a **quiz** consisting of ten multiple choice, tru
 
 ### Case Discussions
 
-The **case discussions** offer opportunities to apply what you have learned in class to current issues in the law in ways that build on but go beyond the lecture. You are asked to discuss two of the seven following cases—one from Part I (Modules 1–6) and one from Part II (Modules 7–12).
+The **case discussions** offer opportunities to apply what you have learned in class to current issues in the law in ways that build on but go beyond the lecture. You are asked to discuss two of the following seven cases—one from Part I (Modules 1–6) and one from Part II (Modules 7–12).
 
-1. *United States v. Higgs* (2021): this is one of a very disturbing series of death penalty cases that the Supreme Court disposed of on its shadow docket. (Modules 1 and 2)
-2. *Shinn v. Ramirez* (2022): the Court upheld the death sentences of two Arizona men despite evidence that their trial counsel was unconstitutionally ineffective, because their post-conviction counsel was also too unconstitutionally ineffective to raise the ineffective assistance of trial counsel claim. (Modules 3 and 4)
-3. *Wooden v. United States* (2022): the Court considered whether burgling ten storage units at the same storage facility on the same night amounts to not one, but ten different offenses that are “committed on occasions different from one another,” thereby triggering a 15-year mandatory sentence under the Armed Career Criminal Act (ACCA) when the petitioner was later convicted of being a felon in possession of a firearm. (Module 5)
-4. *Doe v. Mckesson* (5th Cir. 2023): the 5th Circuit decided that the organizer of a Black Lives Matter protest could be held liable for the injuries of a police officer even though he did not cause those injuries himself. (Module 6)
-5. *Sessions v. Morales-Santana* (2017): Justice Ginsburg, for the Court, struck down a sex discriminatory federal immigration statute but still rejected the petitioner’s citizenship claim. (Modules 7 and 8)
-6. *Frappied v. Affinity Gaming Black Hawk* (10th Cir. 2020): the 10th Circuit considered a claim of employment discrimination on an intersectional “sex-plus-age” basis. (Modules 9 and 10)
-7. *L.W. v. Skrmetti* (6th Cir. 2023): the 6th Circuit rejected 14th Amendment challenges to state laws prohibiting gender-affirming care for transgender youth. (Modules 11 and 12)
+Part I:
 
-I will provide instructions for each case discussion. To earn a *check*, you must adequately answer the question asked by the prompt, and to earn a *check-plus*, your discussion must demonstrate sophistication by going over and beyond the expectations for a check in at least one significant way. I explain what each of these entails in the [checklist for the case discussion assignment](https://github.com/dingherself/phil-324/blob/main/case-discussions/00-checklist.md).
+1. **Death on the Shadow Docket**: *United States v. Higgs* (2021) is one of a very disturbing series of death penalty cases that the Supreme Court disposed of on its shadow docket. (Modules 1 and 2)
+2. **Relief for Wrongful Convictions**: In *Shinn v. Ramirez* (2022), the Court upheld the death sentences of two Arizona men despite evidence that their trial counsel was unconstitutionally ineffective, because their post-conviction counsel was also too unconstitutionally ineffective to raise the ineffective assistance of trial counsel claim. (Modules 3 and 4)
+3. **One Burglary, or Ten?** In *Wooden v. United States* (2022), the Court considered whether burgling ten storage units at the same storage facility on the same night amounts to not one, but ten different offenses that are “committed on occasions different from one another,” thereby triggering a 15-year mandatory sentence under the Armed Career Criminal Act (ACCA) when the petitioner was later convicted of being a felon in possession of a firearm. (Module 5)
+4. **Civil Disobedience in BLM**: *Doe v. Mckesson* (5th Cir. 2023) held that the organizer of a Black Lives Matter protest could be held liable for the injuries of a police officer even though he did not cause those injuries himself. (Module 6)
+
+Part II:
+
+1. **Leveling Down**: In *Sessions v. Morales-Santana* (2017), Justice Ginsburg, for the Court, struck down a sex discriminatory federal immigration statute but still rejected the petitioner’s citizenship claim. (Modules 7 and 8)
+2. **Discrimination against Older Women**: The 10th Circuit in *Frappied v. Affinity Gaming Black Hawk* (2020) considered a claim of employment discrimination on an intersectional “sex-plus-age” basis. (Modules 9 and 10)
+3. **Gender-Affirming Care**: *L.W. v. Skrmetti* (6th Cir. 2023) rejected 14th Amendment challenges to state laws prohibiting gender-affirming care for transgender youth. (Modules 11 and 12)
+
+I will provide instructions for each case discussion. To earn a *check*, you must adequately answer the question asked by the prompt, and to earn a *check-plus*, your discussion must demonstrate sophistication by going over and beyond the expectations for a check in at least one significant way. I explain what each of these entails in the [checklist for the case discussion assignment](https://github.com/dingherself/phil-324/blob/main/case-discussions.md#checklist).
 
 ### Extra Credit Assignments
 
