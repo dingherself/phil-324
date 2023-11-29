@@ -160,7 +160,7 @@ Part II:
 2. [**Discrimination against Older Women**](https://github.com/dingherself/phil-324/blob/main/case-discussions.md#discrimination-against-older-women-modules-910): The 10th Circuit in *Frappied v. Affinity Gaming Black Hawk* (2020) considered a claim of employment discrimination on an intersectional “sex-plus-age” basis. (Modules 9 and 10)
 3. [**Gender-Affirming Care**](https://github.com/dingherself/phil-324/blob/main/case-discussions.md#gender-affirming-care-modules-1112): As early as the spring of 2024, the Supreme Court could decide to review *L.W. v. Skrmetti* (6th Cir. 2023), which rejected 14th Amendment challenges to state laws prohibiting gender-affirming care for transgender youth. (Modules 11 and 12)
 
-I will provide instructions for each case discussion. To earn a *check*, you must adequately answer the question asked by the prompt, and to earn a *check-plus*, your discussion must demonstrate sophistication by going over and beyond the expectations for a check in at least one significant way. I explain what each of these entails in the [checklist for the case discussion assignment](https://github.com/dingherself/phil-324/blob/main/case-discussions.md#checklist).
+I will provide instructions for each case discussion. To earn a *check*, you must adequately respond to the prompt, and to earn a *check-plus*, your discussion must demonstrate sophistication by going over and beyond the expectations for a check in at least one significant way. I explain what each of these entails in the [checklist for the case discussion assignment](https://github.com/dingherself/phil-324/blob/main/case-discussions.md#checklist).
 
 ### Extra Credit Assignments
 
