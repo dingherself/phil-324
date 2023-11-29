@@ -3,7 +3,7 @@
 ## Readings
 
 - [Module 10 reading guide](https://github.com/dingherself/phil-324/raw/main/reading-guides/10-reading-guide.docx)
-- Catharine MacKinnon, *Sexual Harassment of Working Women*, Preface and chaps. 1, 3, 6–7 (see the reading guide for which parts to skim or skip)
+- Catharine MacKinnon, [*Sexual Harassment of Working Women*](https://readcatharinemackinnon.files.wordpress.com/2020/12/sexual-harassment-of-working-women-catharine-a.-mackinnon.pdf), Preface and chaps. 1, 3, 6–7 (see the reading guide for which parts to skim or skip)
 
 ## Lectures
 

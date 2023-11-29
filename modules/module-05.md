@@ -3,12 +3,15 @@
 ## Readings
 
 - [Module 5 reading guide](https://github.com/dingherself/phil-324/raw/main/reading-guides/05-reading-guide.docx)
-- Two constitutional interpretation cases: *Plessy v. Ferguson* (1896); *Brown v. Board of Education* (1954)
-- A statutory interpretation case: [*Smith v. United States*](https://www.loc.gov/item/usrep508223/) (1993)
+- Cases:
+  - [*Plessy v. Ferguson*](https://arizona.box.com/s/tz5tnqyy87xxctecgoe38pmi49orkn0v) (1896)
+  - [*Brown v. Board of Education*](https://arizona.box.com/s/yuszyz7uii9eaohvzj2fo8hyryha9hac) (1954)
+  - [*Smith v. United States*](https://www.loc.gov/item/usrep508223/) (1993)
+
 - In Amy Gutmann, ed., *A Matter of Interpretation: Federal Courts and the Law* (1997):
-	- Antonin Scalia, [“Common-Law Courts in a Civil-Law System: The Role of United States Federal Courts in Interpreting the Constitution and Laws”](http://ezproxy.library.arizona.edu/login?url=https://www.jstor.org/stable/j.ctvbj7jxv.5) (UA login), pp. 14–25, 37–47
-	- Ronald Dworkin, [“Comment”](http://ezproxy.library.arizona.edu/login?url=https://www.jstor.org/stable/j.ctvbj7jxv.9) (UA login), pp. 115–27
-	- Antonin Scalia, [“Response”](http://ezproxy.library.arizona.edu/login?url=https://www.jstor.org/stable/j.ctvbj7jxv.10) (UA login), pp. 144–49
+  - Antonin Scalia, [“Common-Law Courts in a Civil-Law System: The Role of United States Federal Courts in Interpreting the Constitution and Laws”](http://ezproxy.library.arizona.edu/login?url=https://www.jstor.org/stable/j.ctvbj7jxv.5) (UA login), pp. 14–25, 37–47
+  - Ronald Dworkin, [“Comment”](http://ezproxy.library.arizona.edu/login?url=https://www.jstor.org/stable/j.ctvbj7jxv.9) (UA login), pp. 115–27
+  - Antonin Scalia, [“Response”](http://ezproxy.library.arizona.edu/login?url=https://www.jstor.org/stable/j.ctvbj7jxv.10) (UA login), pp. 144–49
 
 ## Lectures
 

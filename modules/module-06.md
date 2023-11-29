@@ -4,8 +4,8 @@
 
 - [Module 6 reading guide](https://github.com/dingherself/phil-324/raw/main/reading-guides/06-reading-guide.docx)
 - Case: [*Walker v. City of Birmingham*](https://www.loc.gov/item/usrep388307/) (1967)
-- Martin Luther King, Jr., “Letter from Birmingham Jail” (1963)
-- John Rawls, selections from *A Theory of Justice* (1971)
+- Martin Luther King, Jr., [“Letter from Birmingham Jail”](https://arizona.box.com/s/tze7e15j5yfr30h69ixspvmw80yj9l7v) (1963)
+- John Rawls, [selections](https://arizona.box.com/s/nuh1iw0xq72yoox7fyz1rd056hz77v4y) from *A Theory of Justice* (1971)
 
 ## Lectures
 

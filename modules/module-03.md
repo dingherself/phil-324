@@ -3,8 +3,8 @@
 ## Readings
 
 - [Module 3 reading guide](https://github.com/dingherself/phil-324/raw/main/reading-guides/03-reading-guide.docx)
-- H.L.A. Hart, *The Concept of Law* (2nd ed. 1994), pp. 79–110
-- Lon Fuller, *The Morality of Law*, pp. [33–41](http://ezproxy.library.arizona.edu/login?url=https://www.jstor.org/stable/j.ctt1cc2mds.6), [96–97](http://ezproxy.library.arizona.edu/login?url=https://www.jstor.org/stable/j.ctt1cc2mds.7) (UA login)
+- H.L.A. Hart, *The Concept of Law* (2nd ed. 1994), pp. [79–110](https://arizona.box.com/s/2pfo1u1ggec5qb3h0bcea2rf146q73bt)
+- Lon Fuller, *The Morality of Law*, pp. [33–41](http://ezproxy.library.arizona.edu/login?url=https://www.jstor.org/stable/j.ctt1cc2mds.6) and [96–97](http://ezproxy.library.arizona.edu/login?url=https://www.jstor.org/stable/j.ctt1cc2mds.7)
 
 ## Lectures
 
