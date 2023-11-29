@@ -1,6 +1,6 @@
 # Advice from Previous Students
 
-Taking an online course is challenging, and I want to acknowledge that. At the end of the last term I taught this class, I gave students an opportunity to leave an anonymous note to future students offering their advice. You will find below a selection of the answers.
+Taking an online course is challenging, and I want to acknowledge that. At the end of the last term I taught this class, I gave students an opportunity to leave an anonymous note to future students offering their advice. Below is a selection of their answers.
 
 ## The Class
 
