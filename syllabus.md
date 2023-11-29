@@ -133,7 +133,7 @@ The **reading guides** are designed to walk you through the assigned readings by
 
 Some of the reading guide questions are **bolded**. If a question is bolded, you are asked to write out a brief answer in your own words (unless instructed otherwise). You don’t need to answer the question correctly in order to receive a *check*, but it must demonstrate at least serious, good-faith effort. You should not leave a bolded question unanswered, and you should never copy directly from my handouts—doing so does not show that *you* have tried to understand the reading. If a question is not bolded, you don’t need to answer it.
 
-To earn a *check-plus* on a reading guide, you are asked to
+To earn a *check-plus* on a reading guide, you are asked, additionally, to
 
 1. write the page numbers of the relevant passages next to the unbolded questions (you don’t need to write out the answers to the unbolded questions);
 2. leave questions/comments/reactions to the reading as you answer the reading guide questions; and
