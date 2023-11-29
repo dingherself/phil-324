@@ -131,13 +131,13 @@ A grade of E/F will be assigned in cases where a student, in the instructor’s 
 
 The **reading guides** are designed to walk you through the assigned readings by pointing you to the key concepts, distinctions, claims, and argumentative steps. Occasionally, I will also use the reading guides to explain the relevant philosophical or historical background. As you do the readings, please follow the questions on the reading guide and identify the relevant passages in the text that address them.
 
-Some of the reading guide questions are **bolded**. If a question is bolded, you are asked to write out a brief answer in your own words (unless instructed otherwise). You don’t need to answer the question correctly in order to receive a *check*, but it must demonstrate at least serious, good-faith effort. You should not leave a bolded question unanswered, and you should never copy directly from my handouts—doing so does not show that *you* have tried to understand the reading. If a question is not bolded, you don’t need to answer it for purposes of a check.
+Some of the reading guide questions are **bolded**. If a question is bolded, you are asked to write out a brief answer in your own words (unless instructed otherwise). You don’t need to answer the question correctly in order to receive a *check*, but it must demonstrate at least serious, good-faith effort. You should not leave a bolded question unanswered, and you should never copy directly from my handouts—doing so does not show that *you* have tried to understand the reading. If a question is not bolded, you don’t need to answer it.
 
 To earn a *check-plus* on a reading guide, you are asked to
 
-1. write the page numbers of the relevant passages next to the unbolded questions;
+1. write the page numbers of the relevant passages next to the unbolded questions (you don’t need to write out the answer);
 2. leave questions/comments/reactions to the reading as you answer the reading guide questions; and
-3. go back to the reading guide after watching my lectures and revise your answers (please leave your original answer as is and use a different color or font to clearly identify the revision).
+3. go back to the reading guide after watching my lectures and revise your answers to the bolded questions (please leave your original answers there and use a different color or font to clearly identify the revision).
 
 ### Module Quizzes
 
