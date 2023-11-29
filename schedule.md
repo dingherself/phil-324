@@ -5,7 +5,6 @@ N.B. This is a *suggested* schedule; you may want to shift which modules you’d
 | Date |  Modules | Assignments |
 |--------|----------|-------------|
 | Before class begins | [Getting Started](modules/getting-started.md) | Please come introduce yourself on the D2L discussion board! |
-
 | 12/21 (R) | All of the following modules: <ul><li>[Module 1, Introduction](modules/module-01.md)</li><li>[Module 2, Natural Law Theory and Legal Positivism: Classical Defenses](modules/module-02.md)</li><li>[Module 3, Natural Law Theory and Legal Positivism: Contemporary Defenses](modules/module-03.md)</li></ul> | Quizzes 1–3 |
 | 12/28 (R) | Any two of the following modules: <ul><li>[Module 4, Judicial Discretion](modules/module-04.md)</li><li>[Module 5, Constitutional and Statutory Interpretation](modules/module-05.md)</li><li>[Module 6, Civil Disobedience](modules/module-06.md)</li></ul> | <ul><li>Two of Quizzes 4–6</li><li>One case discussion from Part I (Modules 1–6)</ul> |
 | 1/4 (R) | All of the following modules: <ul><li>[Module 7, Developing Sex Discrimination Law](modules/module-07.md)</li><li>[Module 8, Critiques of the Sex Discrimination Doctrine: Intersectional Discrimination and Structural Subordination](modules/module-08.md)</li><li>[Module 9, Sexual Orientation and Gender Identity Discrimination](modules/module-09.md)</li></ul> | Quizzes 7–9 |
