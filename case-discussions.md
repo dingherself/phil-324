@@ -3,13 +3,13 @@
 ## Table of Contents
 
 - [Checklist](https://github.com/dingherself/phil-324/blob/main/case-discussions.md#checklist)
-- [Death on the Shadow Docket (Modules 1–2): *United States v. Higgs* (2021)](https://github.com/dingherself/phil-324/blob/main/case-discussions.md#death-on-the-shadow-docket-modules-12-united-states-v-higgs-2021)
-- [Relief for Wrongful Convictions (Modules 3–4): *Shinn v. Ramirez* (2022)](https://github.com/dingherself/phil-324/blob/main/case-discussions.md#relief-for-wrongful-convictions-modules-34-shinn-v-ramirez-2022)
-- [One Burglary, or Ten? (Module 5): *Wooden v. United States* (2022)](https://github.com/dingherself/phil-324/blob/main/case-discussions.md#one-burglary-or-ten-module-5-wooden-v-united-states-2022)
-- [Civil Disobedience in BLM (Module 6): *Doe v. Mckesson* (5th Cir. 2023)](https://github.com/dingherself/phil-324/blob/main/case-discussions.md#civil-disobedience-in-blm-module-6-doe-v-mckesson-5th-cir-2023)
-- [Gender-Based Citizenship Requirements (Modules 7–8): *Sessions v. Morales-Santana* (2017)](https://github.com/dingherself/phil-324/blob/main/case-discussions.md#gender-based-citizenship-requirements-modules-78-sessions-v-morales-santana-2017)
-- [Discrimination against Older Women (Modules 9–10): *Frappied v. Affinity Gaming Black Hawk* (10th Cir. 2020)](https://github.com/dingherself/phil-324/blob/main/case-discussions.md#discrimination-against-older-women-modules-910-frappied-v-affinity-gaming-black-hawk-10th-cir-2020)
-- [Gender-Affirming Care (Modules 11–12): *L.W. v. Skrmetti* (6th Cir. 2023)](https://github.com/dingherself/phil-324/blob/main/case-discussions.md#gender-affirming-care-modules-1112-lw-v-skrmetti-6th-cir-2023)
+- [Death on the Shadow Docket (Modules 1–2)](https://github.com/dingherself/phil-324/blob/main/case-discussions.md#death-on-the-shadow-docket-modules-12)
+- [Relief for Wrongful Convictions (Modules 3–4)](https://github.com/dingherself/phil-324/blob/main/case-discussions.md#relief-for-wrongful-convictions-modules-34)
+- [One Burglary, or Ten? (Module 5)](https://github.com/dingherself/phil-324/blob/main/case-discussions.md#one-burglary-or-ten-module-5)
+- [Civil Disobedience in BLM (Module 6)](https://github.com/dingherself/phil-324/blob/main/case-discussions.md#civil-disobedience-in-blm-module-6)
+- [Gender-Based Citizenship Requirements (Modules 7–8)](https://github.com/dingherself/phil-324/blob/main/case-discussions.md#gender-based-citizenship-requirements-modules-78)
+- [Discrimination against Older Women (Modules 9–10)](https://github.com/dingherself/phil-324/blob/main/case-discussions.md#discrimination-against-older-women-modules-910)
+- [Gender-Affirming Care (Modules 11–12)](https://github.com/dingherself/phil-324/blob/main/case-discussions.md#gender-affirming-care-modules-1112)
 
 You can find brief descriptions of the different cases in the [syllabus](https://github.com/dingherself/phil-324/blob/main/case-discussions.md#checklist).
 
@@ -34,7 +34,9 @@ To earn a *check-plus*, your discussion must demonstrate *sophistication* by goi
 - The discussion may develop a particularly thoughtful analysis by demonstrating nuanced and careful awareness of, and where appropriate, engaging with countervailing considerations, competing views, and additional complications.
 - The discussion may be particularly well-executed: it is crystal clear, easy to follow, a joy to read, and yet thoughtful and nuanced.
 
-## Death on the Shadow Docket (Modules 1–2): *United States v. Higgs* (2021)
+## Death on the Shadow Docket (Modules 1–2)
+
+***United States v. Higgs*, 141 S. Ct. 645 (2021)**
 
 In class, we learned about the Supreme Court’s shadow docket and surveyed many of the worries it raises. One of the most striking uses of the shadow docket occurs in the Court’s disposition of stays of execution in death penalty cases.
 
@@ -44,7 +46,9 @@ As you might remember, during the last year of the Trump administration, the fed
 
 Please read the decision linked above (note the lack of reasoning from the majority; Justice Sotomayor’s dissent will give you more context). It seems that many of the problems with the Court’s disposition of stays of execution on its shadow docket are moral problems (that is, they are problems about what is right/wrong, just/unjust); at the same time, it seems that they do bear directly on the lawfulness of the execution (that is, they factor into whether the execution is legal/illegal, whether a court should allow the execution to go forward). **In this connection, please write a short essay (2–3 pages, double spaced) critically discussing how *Higgs* might shed light on the disagreement between legal positivism and natural law theory.** Be sure to review the [checklist]((https://github.com/dingherself/phil-324/blob/main/case-discussions.md#checklist)) above.
 
-## Relief for Wrongful Convictions (Modules 3–4): *Shinn v. Ramirez* (2022)
+## Relief for Wrongful Convictions (Modules 3–4)
+
+ ***Shinn v. Ramirez*, 596 U.S. 366, 142 S. Ct. 1718 (2022)**
 
 The Suspension Clause in Article I of the Constitution provides:
 
@@ -64,7 +68,9 @@ For our purposes, we will focus on Mr. Jones’s case. But as you can already te
 
 (P.S. Despite the U.S. Supreme Court’s ruling, Mr. Jones’s current attorneys, through truly outstanding advocacy, managed to reach a settlement agreement with the state and finally [secured his release](https://docs.google.com/document/d/1cmM97a86kx5WtwxHkhtE1UBquNDcTxkrsWWUOl09B6o/edit) in June 2023, nearly three decades after his wrongful conviction.)
 
-## One Burglary, or Ten? (Module 5): *Wooden v. United States* (2022)
+## One Burglary, or Ten? (Module 5)
+
+***Wooden v. United States*, 595 U.S. 360, 142 S. Ct. 1063 (2022)**
 
 On one evening in 1997, Mr. William Wooden broke into ten units at a storage facility right next to his house (see this [Google Maps photo](https://bit.ly/3sMQsKX) for what the storage facility is like—this turns out to be really important). He was subsequently indicted on ten counts of burglary, among other charges, and he pleaded guilty to all of them. He received a total sentence of eight years.
 
@@ -86,11 +92,15 @@ Please read (in this order):
 
 **Then, in light of our discussion of statutory interpretation, please write a short essay (2–3 pages, double spaced) critically discussing how you think the phrase “committed on occasions different from one another” should be interpreted.** Be sure to review the [checklist]((https://github.com/dingherself/phil-324/blob/main/case-discussions.md#checklist)) above.
 
-## Civil Disobedience in BLM (Module 6): *Doe v. Mckesson* (5th Cir. 2023)
+## Civil Disobedience in BLM (Module 6)
+
+***Doe v. Mckesson*, 71 F.4th 278 (5th Cir. 2023), *petition for cert. filed*, No. 23-373 (U.S. Oct. 10, 2023)**
 
 [new—to be updated]
 
-## Gender-Based Citizenship Requirements (Modules 7–8): *Sessions v. Morales-Santana* (2017)
+## Gender-Based Citizenship Requirements (Modules 7–8)
+
+***Sessions v. Morales-Santana*, 582 U.S. 47 (2017)**
 
 A persistent doctrinal problem within the Court’s approach to gender equality is its treatment of purported real sex differences. In our discussion of MacKinnon, for example, we encountered the Court’s view on pregnancy: discrimination on the basis of pregnancy, *Geduldig* and *Gilbert* held, is not discrimination on the basis of sex because pregnancy is an inherent difference that’s unique but not universal to women.
 
@@ -119,7 +129,9 @@ This time, the Court found the differential requirement unconstitutional, but it
 
 **Please read Justice Ginsburg’s majority opinion in *Morales-Santana* linked above (be smart about which parts to skim!). Then, please write a short essay (2–3 pages, double spaced) critically discussing how you think MacKinnon would respond to *Morales-Santana*—would you agree with her, and why or why not? **Be sure to review the [checklist]((https://github.com/dingherself/phil-324/blob/main/case-discussions.md#checklist)) above.
 
-## Discrimination against Older Women (Modules 9–10): *Frappied v. Affinity Gaming Black Hawk* (10th Cir. 2020)
+## Discrimination against Older Women (Modules 9–10)
+
+***Frappied v. Affinity Gaming Black Hawk, LLC*, 966 F.3d 1038 (10th Cir. 2020)**
 
 By now, we have introduced Crenshaw’s now-classic critique of the courts’ failure to conceptualize intersectional discrimination against Black women. We have also just considered two more intersectional forms of discrimination—sexual harassment (sex/gender, sexuality, and class) and LGBTQ+ discrimination (sex/gender, sexual orientatition, and gender identity).
 
@@ -136,6 +148,8 @@ The distinction between disparate treatment and disparate impact came up in MacK
 
 **Please read the 10th Circuit’s opinion linked above. Then, please write a short essay (2–3 pages, double spaced) critically discussing whether you think the *Bostock*-style analysis, as illustrated by both *Bostock* itself and its application in *Frappied*, can provide an adequate solution to the analytical challenges posed by intersectional discrimination (be sure to consider countervailing reasons!).** Be sure also to review the [checklist]((https://github.com/dingherself/phil-324/blob/main/case-discussions.md#checklist)) above.
 
-## Gender-Affirming Care (Modules 11–12): *L.W. v. Skrmetti* (6th Cir. 2023)
+## Gender-Affirming Care (Modules 11–12)
+
+***L.W. v. Skrmetti*, 83 F.4th 460 (6th Cir. 2023), *petition for cert. filed*, No. 23-466 (U.S. Nov. 1, 2023)**
 
 [new—to be updated]

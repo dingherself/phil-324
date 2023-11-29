@@ -17,4 +17,4 @@
 
 ## Case Discussion
 
-- [*Wooden v. United States* (2022)](https://github.com/dingherself/phil-324/blob/main/case-discussions/03-wooden.md) (post to D2L > Discussions)
+- [*Doe v. Mckesson*](https://github.com/dingherself/phil-324/blob/main/case-discussions.md#civil-disobedience-in-blm-module-6), 71 F.4th 278 (5th Cir. 2023), *petition for cert. filed*, No. 23-373 (U.S. Oct. 10, 2023)

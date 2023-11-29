@@ -15,4 +15,4 @@
 
 ## Case Discussion
 
-- [*Frappied v. Affinity Gaming Black Hawk* (10th Cir. 2020) ](https://github.com/dingherself/phil-324/blob/main/case-discussions/05-frappied.md)(post to D2L > Discussions)
+- [*Frappied v. Affinity Gaming Black Hawk, LLC*](https://github.com/dingherself/phil-324/blob/main/case-discussions.md#discrimination-against-older-women-modules-910), 966 F.3d 1038 (10th Cir. 2020)

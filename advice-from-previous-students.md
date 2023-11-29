@@ -1,0 +1,22 @@
+# Advice from Previous Students
+
+Taking an online course is challenging, and I want to acknowledge that. At the end of the last term I taught this class, I gave students an opportunity to leave an anonymous note to future students offering their advice. You will find below a selection of the answers.
+
+## The Class
+
+- “The advice that I would give future students is that one, do not procrastinate. This class requires you to layout a functioning schedule that allows you to complete everything on time. This class consists of a lot of reading and understanding, which is why it is vital to develop good time management. Two, ask questions when needed. This class can be challenging, but it will push you to reach your full potential. The professor of this class is always willing to provide help to help you succeed in this class, take advantage of the [office hours].  Lastly, do not give up. It is natural to feel as though this class is hard and you can’t do it, but I promise that you can; especially when you have a professor who is more than willing to help you do so.”
+- “My advice for future students is to stay organized. There are a lot of moving parts to this class, and keeping track of them will be easiest if you stay organized from the start. Take advantage of the lectures, and jot your own notes down as Ding presents explanations for each of the modules. . . . And, Ding is very responsive and welcoming to questions, so feel free to ask away.”
+- “This is not an easy class, but it is one that I have been so excited about. The case law is fascinating and sometimes frustrating because it can be multidimensional and forces you to leave your ‘comfort zone of thinking.’ . . . [I]f you can hang in for the first five or so modules, the rest of the tasks will make much more sense.”
+- “Seek guidance: If you have questions or need clarification on certain topics, don’t hesitate to reach out to your professor. . . . Stay curious, approach the class with an open mind, and be willing to challenge your own assumptions.”
+- “Embrace the opportunity to explore subjects that might be new or unfamiliar. The value of these classes extends beyond the grades you receive. This class provides me with a chance to cultivate critical thinking, engage in meaningful discussions, and develop a more comprehensive understanding of the world around me. . . . Approach each class with curiosity and enthusiasm, knowing that the insights I gain will contribute not only to your academic journey but also to my personal development.”
+
+## The Readings
+
+- ”I would advise future students to do the readings in small sections and frequently. The text is all very dense and it’s much easier to digest in small pieces. Also, I would suggest taking as many notes as possible and possibly making a quizlet [or something similar] for each reading to clearly organize your notes.”
+- “Be ready to read a lot! I recommend a quiet environment that allows you to think critically and apply and absorb the readings. There are frustrating weeks (especially those focusing on philosophy), but do your best to understand information. I would be lying if I said there weren’t weeks where I had to read the same page 3-4 times, and I still didn’t completely understand a concept after the fourth time.”
+- “Advice I would give is to spread out the workload. . . . As someone who works full time and must go away for training or random work-related trips, you can find yourself scrambling at the last minute to finish something and it might not be your best work. Also don’t be afraid to ask for help.”
+
+## The Assignments
+
+- “The big thing for me is to keep up on not just lectures, but all of your assignments. Do not try to cram everything in at the last minute and budget your time appropriately. . . . If you know you have things to do throughout the week, do a little here and there so you save yourself the stress of cramming.”
+- “The best part of this class is the weekly caselaw assignments. I enjoyed learning about some of the most fundamental cases in American history, and new students with a passion for law will too. I will finish my degree by the end of the calendar year, and this course was one of my top three courses taken at the University of Arizona.”

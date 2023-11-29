@@ -19,4 +19,4 @@ As a reminder, if a reading is not linked here, you can find it in the Box folde
 
 ## Case Discussion
 
-- [*United States v. Higgs* (2021)](https://github.com/dingherself/phil-324/blob/main/case-discussions/01-higgs.md) (post to D2L > Discussions)
+- [*United States v. Higgs*](https://github.com/dingherself/phil-324/blob/main/case-discussions.md#death-on-the-shadow-docket-modules-12), 141 S. Ct. 645 (2021)

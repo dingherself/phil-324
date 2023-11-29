@@ -21,3 +21,7 @@
 ## Assignment
 
 - Module 5 reading guide (due to D2L > Assignments)
+
+## Case Discussion
+
+- [*Wooden v. United States*](https://github.com/dingherself/phil-324/blob/main/case-discussions.md#one-burglary-or-ten-module-5), 595 U.S. 360, 142 S. Ct. 1063 (2022)
