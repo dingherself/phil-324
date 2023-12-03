@@ -30,7 +30,7 @@ More specifically, here are the elements that make a satisfactory (check-level) 
 To earn a *check-plus*, your discussion must demonstrate *sophistication* by going over and beyond the expectations for a check in at least one significant way. For example,
 
 - The discussion may craft a particularly insightful thesis that indicates a deep and nuanced grasp of the case and the course materials.
-- The discussion may provide a particularly compelling argument of its thesis with an original example, idea, or application of a theory.
+- The discussion may provide a particularly compelling argument for its thesis with an original example, idea, or application of a theory.
 - The discussion may develop a particularly thoughtful analysis by demonstrating nuanced and careful awareness of, and where appropriate, engaging with countervailing considerations, competing views, and additional complications.
 - The discussion may be particularly well-executed: it is crystal clear, easy to follow, a joy to read, and yet thoughtful and nuanced.
 
