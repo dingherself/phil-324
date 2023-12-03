@@ -20,7 +20,7 @@ Please also check out these useful sites (I mean it—do click on the links and 
 - Lecture 1.1: Fuller ([video](https://youtu.be/fq7aK129dtg) \| [handout](https://github.com/dingherself/phil-324/blob/main/handouts/01-fuller.md))
 - Lecture 1.2: U.S. Supreme Court ([part 1](https://youtu.be/-gyt15kZgCM) \| [part 2](https://youtu.be/p8bNxHOrj80) \| [handout](https://github.com/dingherself/phil-324/blob/main/handouts/01-supreme-court.md))
 - Lecture 1.3: Equal Protection Clause ([part 1](https://youtu.be/nqbV0SmYqKM) \| [part 2](https://youtu.be/UX5MBOVz0JQ) \| [handout](https://github.com/dingherself/phil-324/blob/main/handouts/01-equal-protection-clause.md))
-- [Supplemental note on the sovereign immunity doctrine](https://github.com/dingherself/phil-324/blob/main/handouts/01-sovereign-immunity.md)
+- [Supplemental Note on the Sovereign Immunity Doctrine](https://github.com/dingherself/phil-324/blob/main/handouts/01-sovereign-immunity.md)
 
 (I’m sorry for saying “um” very many times in these recordings. I’m working on that. It feels very unnatural to be talking into a machine in front of you...)
 
