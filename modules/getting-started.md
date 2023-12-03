@@ -12,5 +12,5 @@
 
 ## Activities
 
-- Come say hi to your classmates and instructor (reply to the \#introductions channel on Discord)
+- Come say hi to your classmates and instructor (post to D2L > Discussions)
 
