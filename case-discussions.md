@@ -127,7 +127,7 @@ The case we will discuss follows up on this 2001 decision. [*Sessions v. Morales
 
 This time, the Court found the differential requirement unconstitutional, but it got hung up on remedy: for the Court, Justice Ginsburg wrote that the right thing to do here was to strike down the shortened period for unmarried citizen mothers, such that the longer period would apply across the board—indeed, Justice Ginsburg argued that this was necessitated “by the legislature’s intent, as revealed by the statute at hand.” In other words, in ruling *for* Mr. Morales-Santana (whose citizen father fell 20 days short of the 10-year physical presence requirement), the Court denied him the protection from deportation that he sought.
 
-**Please read Justice Ginsburg’s majority opinion in *Morales-Santana* linked above (be smart about which parts to skim!). Then, please write a short essay (2–3 pages, double spaced) critically discussing how you think MacKinnon would respond to *Morales-Santana*—would you agree with her, and why or why not? **Be sure to review the [checklist]((https://github.com/dingherself/phil-324/blob/main/case-discussions.md#checklist)) above.
+**Please read Justice Ginsburg’s majority opinion in *Morales-Santana* linked above (be smart about which parts to skim!). Then, please write a short essay (2–3 pages, double spaced) critically discussing how you think MacKinnon would respond to *Morales-Santana*—would you agree with her, and why or why not?** Be sure to review the [checklist]((https://github.com/dingherself/phil-324/blob/main/case-discussions.md#checklist)) above.
 
 ## Discrimination against Older Women (Modules 9–10)
 
