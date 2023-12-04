@@ -68,13 +68,11 @@ Our course is divided into two parts, each of which consists of six modules. The
 
 Each part follows its own internal structure:
 
-- The first three modules (the “foundational” modules) of each part introduce you to the big questions that animate the theoretical discussions, and the next three (the “applied” modules) consider specific, applied cases that put those discussions in an interestingly different light. For each part, you are required to complete all three foundational modules and any two of the three applied modules.
+- The first three modules (the *foundational* modules) of each part introduce you to the big questions that animate the theoretical discussions, and the next three (the *applied* modules) consider specific, applied cases that put those discussions in an interestingly different light. For each part, you are required to complete all three foundational modules and any two of the three applied modules.
 - For each required module, you are expected to do all assigned readings as you follow and complete the reading guide, watch all assigned lectures, and take the module quiz.
 - Each part also includes several curated case discussions, which offer opportunities for you to critically examine the implications of the course materials for recent cases before the U.S. Supreme Court and federal appellate courts. You are required to complete one case discussion from each part.
 
-There is no firm deadline by which you must complete each individual module. But you must complete all course requirements by **the last day of class, January 9, 2024**, unless you make special arrangements with me ahead of time—please contact me as soon as you can if you suspect you cannot complete the course on time.
-
-[Please click here for a suggested schedule.](https://github.com/dingherself/phil-324/blob/main/schedule.md)
+There is no firm deadline by which you must complete each individual module. But you must complete all course requirements by **the last day of class, January 9, 2024**, unless you make special arrangements with me ahead of time—please contact me as soon as you can if you suspect you cannot complete the course on time. [Please click here for a suggested schedule.](https://github.com/dingherself/phil-324/blob/main/schedule.md)
 
 ### Workload
 
@@ -86,7 +84,7 @@ I understand this is not a trivial time commitment. I also know you are already 
 
 The readings assigned in this course are unique in that they are written by legally-minded philosophers and philosophically-minded legal scholars. For this reason, they can be challenging to read, especially if you are new to philosophy or law. It’s *okay* if you feel you don’t understand every word (a good dictionary is your friend!), or that you do understand every word but just can’t put them together in a way that makes sense, or that you more or less understand all the sentences but are still at sea about what exactly the author is saying or doing. These experiences are to be expected and not indicative of your potential to thrive in this class.
 
-You should expect to read (at least certain parts of) the text more than once. Reading philosophy/law is not a talent we are born with; rather, it is a skill that has to be acquired through practice. There is a lot to learn just from the *process* of putting effort into making sense of these difficult readings. I hope you will find the reading guides particularly useful, and please never be afraid to come ask questions about passages you find puzzling!
+You should expect to read (at least certain parts of) the text more than once. Reading philosophy and law is not a talent we are born with; rather, it is a skill that has to be acquired through practice. There is a lot to learn just from the *process* of putting effort into making sense of these difficult readings. I hope you will find the reading guides particularly useful, and please never be afraid to come ask questions about passages you find puzzling!
 
 ### Support for Nontraditional Students
 
@@ -106,7 +104,7 @@ This winter session will be the fifth time I’m teaching the online version of 
 
 This time, though, I’d like to try out a “build your own grade” system. My motivation here is that I want to create space for my students to genuinely learn and grow as philosophers, and I hope to do that by making grading as least anxiety-inducing as possible for students who are learning about law and philosophy for the first time. Here is how the system works:
 
-- All of the assignments in this class will be graded on a check-plus/check/check-minus (i.e., excellent/satisfactory/unsatisfactory) basis. You will receive a check on an assignment as long as you complete it as instructed; a check-plus will ask you to put in a lot more effort, and I will explain what that amounts to for each type of assignments below.
+- All of the assignments in this class will be graded on a check-plus/check/incomplete (i.e., excellent/satisfactory/fail) basis. You will receive a check on an assignment as long as you complete it as instructed; a check-plus will ask you to put in a lot more effort, and I will explain what that amounts to for each type of assignments below.
 - To earn a certain letter grade in the course (A, B, C …), you must complete all of the requirements for that letter grade as specified below.
 - If you barely fail to meet the requirements for the next letter grade, you may choose to complete an extra credit assignment, described below, in order to make up for the missed requirement.
 
@@ -116,10 +114,10 @@ If at any point you have any questions about the logistics of the course, please
 
 |      | [Reading Guides](https://github.com/dingherself/phil-324/blob/main/syllabus.md#reading-guides) | [Module Quizzes](https://github.com/dingherself/phil-324/blob/main/syllabus.md#module-quizzes) | [Case Discussions](https://github.com/dingherself/phil-324/blob/main/syllabus.md#case-discussions) | [Good Citizenship](https://github.com/dingherself/phil-324/blob/main/syllabus.md#respect-support-and-care-for-one-another) |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| D    | Earn at least a check on six of the ten required reading guides. | Earn at least a check on six of the ten required module quizzes. | Earn at least a check on one of the required case discussions. | Participate in the course in ways that for the most part demonstrate respect, support, and care for your classmates and instructor, despite a pattern of disruptive or otherwise inappropriate actions. |
-| C    | Earn at least a check on <strong><ins>eight</strong></ins> of the ten required reading guides. | Earn at least a check on <strong><ins>eight</strong></ins> of the ten required module quizzes. | Earn at least a check on one of the required case discussions. | Participate in the course in ways that demonstrate <a href="https://github.com/dingherself/phil-324/blob/main/syllabus.md#respect-support-and-care-for-one-another"><strong><ins>respect, support, and care</strong></ins></a> for your classmates and instructor. |
-| B    | Earn at least a check on all <strong><ins>ten</strong></ins> required reading guides. | Earn at least a check on all <strong><ins>ten</strong></ins> required module quizzes. | Earn at least a check on both of the <strong><ins>two</strong></ins> required case discussions. | Participate in the course in ways that demonstrate respect, support, and care for your classmates and instructor. |
-| A    | Earn a <strong><ins>check-plus</strong></ins> on all ten required reading guides.    | Earn a <strong><ins>check-plus</strong></ins> on all ten required module quizzes.    | Earn a <strong><ins>check-plus</strong></ins> on both of the two required case discussions. | Participate in the course in ways that demonstrate respect, support, and care for your classmates and instructor. |
+| D    | Earn at least a check on six of the ten required reading guides. | Earn at least a check on six of the ten required module quizzes. | Earn at least a check on one of the two required case discussions. | Participate in the course in ways that for the most part demonstrate respect, support, and care for your classmates and instructor, despite a pattern of disruptive or otherwise inappropriate actions. |
+| C    | Earn at least a check on <ins><strong>eight</strong></ins> of the ten required reading guides. | Earn at least a check on <ins><strong>eight</strong></ins> of the ten required module quizzes. | Earn at least a check on one of the two required case discussions. | Participate in the course in ways that demonstrate <a href="https://github.com/dingherself/phil-324/blob/main/syllabus.md#respect-support-and-care-for-one-another"><ins><strong>respect, support, and care</strong></ins></a> for your classmates and instructor. |
+| B    | Earn at least a check on all <ins><strong>ten</strong></ins> required reading guides. | Earn at least a check on all <ins><strong>ten</strong></ins> required module quizzes. | Earn at least a check on <ins><strong>both</strong></ins> of the two required case discussions. | Participate in the course in ways that demonstrate respect, support, and care for your classmates and instructor. |
+| A    | Earn a <ins><strong>check-plus</strong></ins> on all ten required reading guides. | Earn a <ins><strong>check-plus</strong></ins> on all ten required module quizzes. | Earn a <ins><strong>check-plus</strong></ins> on both of the two required case discussions. | Participate in the course in ways that demonstrate respect, support, and care for your classmates and instructor. |
 
 A grade of E/F will be assigned in cases where a student, in the instructor’s judgment,
 
@@ -135,7 +133,7 @@ Some of the reading guide questions are **bolded**. If a question is bolded, you
 
 To earn a *check-plus* on a reading guide, you are asked, additionally, to
 
-1. write the page numbers of the relevant passages next to the unbolded questions (you don’t need to write out the answers to the unbolded questions);
+1. write the page numbers of the relevant passages next to each of the unbolded questions (you don’t need to write out the answers to the unbolded questions);
 2. leave questions/comments/reactions to the reading as you answer the reading guide questions; and
 3. go back to the reading guide after watching my lectures and revise your answers to the bolded questions (please leave your original answers there and use a different color or font to clearly identify the revision).
 
@@ -176,7 +174,7 @@ Talks that are particularly relevant to our course include Professor Connie Rosa
 
 If you did not receive a check or a check-plus on your *first* case discussion, you will have the option to submit a revision in light of the feedback received. The revision must be *substantial* (it’s not enough to simply change a few words here and there), and it must be accompanied by a *revision cover letter* (one-page, single spaced), in which you will be asked to elaborate on how the revision has addressed and incorporated the feedback.
 
-If you decide to revise your first case discussion, you must submit the revised version, along with the cover letter, by **the last day of class, January 9, 2024**. Note that if you turn in your first case discussion too close to that deadline, I may not have the chance to provide feedback in time for your revision in the first place.
+If you decide to revise your first case discussion, you must turn in the revised version, along with the cover letter, by **the last day of class, January 9, 2024**. Note that if you turn in your first case discussion too close to that deadline, I may not have the chance to provide feedback in time for you to submit a revision in the first place.
 
 #### Completing Extra Modules
 
