@@ -262,7 +262,7 @@ Ding (University of Arizona)
             but no deaths or injuries. The violence/nonviolence
             distinction is just not what's doing the work here.
 
-        -   King's reason: Violence is morally wrong, and we can use it
+        -   King's reason: Violence is morally wrong, and we can’t use it
         to achieve justice.
 
             -   On what grounds might someone think violence is morally
