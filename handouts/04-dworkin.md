@@ -35,7 +35,7 @@ Ding (University of Arizona)
 
 -   Fuller's procedural natural law theory
 
-    -   Fuller gives up substantive moral conditions on legal validity.
+    -   Fuller gives up on substantive moral conditions on legal validity.
 
     -   However, Fuller insists that there are certain procedural moral
         requirements that are internal to law.
