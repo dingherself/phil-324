@@ -48,7 +48,7 @@ Please read the decision linked above (note the lack of reasoning from the major
 
 ## Relief for Wrongful Convictions (Modules 3–4)
 
- ***Shinn v. Ramirez*, 596 U.S. 366, 142 S. Ct. 1718 (2022)**
+ ***Shinn v. Ramirez*, 596 U.S. 366 (2022)**
 
 The Suspension Clause in Article I of the Constitution provides:
 
@@ -70,7 +70,7 @@ For our purposes, we will focus on Mr. Jones’s case. But as you can already te
 
 ## One Burglary, or Ten? (Module 5)
 
-***Wooden v. United States*, 595 U.S. 360, 142 S. Ct. 1063 (2022)**
+***Wooden v. United States*, 595 U.S. 360 (2022)**
 
 On one evening in 1997, Mr. William Wooden broke into ten units at a storage facility right next to his house (see this [Google Maps photo](https://bit.ly/3sMQsKX) for what the storage facility is like—this turns out to be really important). He was subsequently indicted on ten counts of burglary, among other charges, and he pleaded guilty to all of them. He received a total sentence of eight years.
 
