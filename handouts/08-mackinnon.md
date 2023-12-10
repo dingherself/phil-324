@@ -126,7 +126,7 @@ Ding (University of Arizona)
         discrimination precisely because they are the most disadvantaged
         women. Indeed, their disadvantage might make them *differently*
         situated, and erases the very possibility of them even being
-        able to be discriminated against at a conceptual level.
+        able to be discriminated against on a conceptual level.
 
         -   As MacKinnon puts it, "\[T\]he differences approach, as a
             requisite to finding discrimination, has in mind people who
