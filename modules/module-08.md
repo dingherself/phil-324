@@ -15,4 +15,4 @@
 
 - Module 8 reading guide (due to D2L > Assignments)
 - Module 8 quiz (D2L > Quizzes)
-- Case discussion: [*Sessions v. Morales-Santana*, 582 U.S. 47 (2017) ]((https://github.com/dingherself/phil-324/blob/main/case-discussions.md#gender-based-citizenship-requirements-modules-78)) (due to D2L > Assignments)
+- Case discussion: [*Sessions v. Morales-Santana*, 582 U.S. 47 (2017) ](https://github.com/dingherself/phil-324/blob/main/case-discussions.md#gender-based-citizenship-requirements-modules-78) (due to D2L > Assignments)
