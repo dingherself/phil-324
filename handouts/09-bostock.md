@@ -298,7 +298,7 @@ Ding (University of Arizona)
         originalism:
 
         -   *Expectation originalism*: Title VII means what the law
-            makers *expected* to mean. That is, "discrimination because
+            makers *expected* it to mean. That is, "discrimination because
             of sex" means "discrimination that we take to be
             discrimination because of sex."
 
@@ -312,7 +312,7 @@ Ding (University of Arizona)
         -   *Semantic originalism*: Title VII means what the law makers
             *intended* to mean.
             -   *Concrete and dated semantic Intent*: Title VII means
-                what the law makers intended to mean in a concrete and
+                what the law makers intended it to mean in a concrete and
                 dated sense. That is, "discrimination because of sex"
                 means "discrimination widely regarded as discrimination
                 because of sex at the date of this enactment." But,
@@ -320,7 +320,7 @@ Ding (University of Arizona)
                 interpretation.
             
             -   *Principled and dated semantic intent*: Title VII means
-                what the law makers intended to mean in a principled and
+                what the law makers intended it to mean in a principled and
                 dated sense. That is, "discrimination because of sex"
                 means "whatever discrimination that fits what we
                 consider discrimination because of sex today."
@@ -330,7 +330,7 @@ Ding (University of Arizona)
                 was probably what people thought "sex" meant in 1964).
             
             -   *Principled and timeless semantic intent*: Title VII
-                means what the law makers intended to mean in a
+                means what the law makers intended it to mean in a
                 principled and timeless sense. That is, "discrimination
                 because of sex" means "whatever discrimination that is
                 in fact discrimination because of sex." Proponents of

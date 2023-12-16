@@ -72,9 +72,9 @@ Ding (University of Arizona)
 
     -   At bottom, all three tests ask whether biological differences
         can justify differential treatment, that is, whether there is
-        some *fitting* relationship between the two. If there are, the
+        some *fitting* relationship between the two. If there is, the
         differential treatment is not arbitrary and so there is no sex
-        discrimination. If there are not, then there is a failure of
+        discrimination. If there is not, then there is a failure of
         *neutrality*, and neutrality is all that gender equality
         requires.
 
@@ -114,12 +114,11 @@ Ding (University of Arizona)
 
     -   In this society, it seems mandatory preference for males is
         rationally related to administrative efficiency, and so it is
-        not discrimination.
-
+        not unconstitutional.
         -   This is the wrong result. Under the difference approach, the
             more sexist a society is, the less sex discrimination there
             is. That is absurd.
-
+        
     -   But, even within a society where most women are literate and
         have financial skills, the problem still remains---it means
         discrimination against the most disadvantaged women is not
@@ -127,7 +126,6 @@ Ding (University of Arizona)
         women. Indeed, their disadvantage might make them *differently*
         situated, and erases the very possibility of them even being
         able to be discriminated against on a conceptual level.
-
         -   As MacKinnon puts it, "\[T\]he differences approach, as a
             requisite to finding discrimination, has in mind people who
             have not been damaged by racism or sexism, who are in the
@@ -145,7 +143,7 @@ Ding (University of Arizona)
             white, leaving untouched those whose lives will never be the
             same as the more privileged precisely because of race or
             sex."
-
+    
 -   Now consider the pregnancy discrimination cases:
 
     -   In *Geduldig* (the constitutional interpretation case) and
