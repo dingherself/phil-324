@@ -15,7 +15,7 @@ You can find brief descriptions of the different cases in the [syllabus](https:/
 
 ## Checklist
 
-To earn a *check*, your discussion must adequately respond to the prompt by (1) covering all elements of the prompt, (2) demonstrating a clear grasp of the relevant course materials as applied to the case, and (3) showing a serious, good-faith effort to develop a thoughtful, reasoned, and structurally complete analysis of the case.
+To earn a *check*, your discussion must adequately respond to the prompt by (1) addressing all aspects of the prompt, (2) demonstrating a clear grasp of the relevant course materials as applied to the case, and (3) showing a serious, good-faith effort to develop a thoughtful, reasoned, and structurally complete analysis of the case.
 
 More specifically, here are the elements that make a satisfactory (check-level) discussion:
 
