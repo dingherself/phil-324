@@ -14,7 +14,7 @@ Ding (University of Arizona)
         -   This is a point worth poring over. As MacKinnon sees it,
             both elements, that is, power and sexuality, are essential
             to what sexual harassment really *is*: an exercise of social
-            *power* in, through and as *sexuality*.
+            *power* in, through, and as *sexuality*.
         
     -   Specifically, MacKinnon argues that sexual harassment is the
         social subordination of *women* sexualized and even eroticized.
