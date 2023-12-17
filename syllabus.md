@@ -64,7 +64,7 @@ I’m happy to help you troubleshoot technical issues. I understand how frustrat
 Our course is divided into two parts, each of which consists of six modules. These two parts follow both a topical and a methodological logic:
 
 - Part I (Modules 1–6) covers classic issues in general philosophy of law, and Part II (Modules 7–12) more recent issues in feminist philosophy of law.
-- As we move from Part I to Part II, we will also transition from thinking about the law from the comfort of the philosopher’s armchair to more empirically engaged inquires characteristic of recent work in feminist legal theory.
+- As we move from Part I to Part II, we will also transition from thinking about the law from the comfort of the philosopher’s armchair to more empirically engaged inquiries characteristic of recent work in feminist legal theory.
 
 Each part follows its own internal structure:
 
