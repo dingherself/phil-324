@@ -164,15 +164,15 @@ I will provide instructions for each case discussion. To earn a *check*, you mus
 
 #### FemPhilAZ
 
-Each year, graduate students here at the UA Department of Philosophy organize   the only regular feminist philosophy graduate conference in the world—the annual [Arizona Feminist Philosophy Graduate Conference](https://www.femphilaz.com/) (FemPhilAZ). Many of the talks at FemPhilAZ bear closely on the materials and topics of this class.
+Each year, graduate students here at the UA Department of Philosophy organize   the only regular graduate conference in feminist philosophy—the annual [Arizona Feminist Philosophy Graduate Conference](https://www.femphilaz.com/) (FemPhilAZ). Many of the talks at FemPhilAZ bear closely on the materials and topics of this class.
 
-You can earn a 10% extra credit on two of your module quizzes by watching any of the FemPhilAZ talks (linked above on the conference website), writing a 1–2 page response paper, and emailing it to me by 11:59pm on Sunday, January 7, 2024. You should spend roughly half of your response paper summarizing the argument presented in the talk and then the other half critically engaging with it (you can, for example, raise a problem, defend it against a worry, connect it to an idea or argument we discussed in class, or apply it to a novel context).
+You can earn a 10% extra credit on two of your module quizzes by watching any of the FemPhilAZ talks (if a talk is available to stream, there should be a link on the conference website), writing a 1–2 page response paper, and emailing it to me by 11:59pm on Sunday, January 7, 2024. You should spend roughly half of your response paper summarizing the argument presented in the talk and then the other half critically engaging with it (you can, for example, raise a problem, defend it against a worry, connect it to an idea or argument we discussed in class, or apply it to a novel context).
 
 Talks that are particularly relevant to our course include Professor Connie Rosati (now of UT Austin)’s 2020 keynote on *Obergefell* (the 2015 U.S. Supreme Court case that declared bans on same-sex marriage unconstitutional), Professor Gina Schouten (Harvard)’s 2021 keynote on liberal feminism, RJ Krabbendam (Tilburg)’s 2021 talk on affective injustice, and Joan O’Bryan (Stanford)’s 2022 paper on Beauvoir, MacKinnon, and Butler. But you should feel free to pick whichever talk you find most interesting!
 
 #### Revising Your First Case Discussion
 
-If you did not receive a check or a check-plus on your *first* case discussion, you will have the option to submit a revision in light of the feedback received. The revision must be *substantial* (it’s not enough to simply change a few words here and there), and it must be accompanied by a *revision cover letter* (one-page, single spaced), in which you will be asked to elaborate on how the revision has addressed and incorporated the feedback.
+If you did not receive a check-plus on your *first* case discussion, you will have the option to submit a revision in light of the feedback received. The revision must be *substantial* (it’s not enough to simply change a few words here and there), and it must be accompanied by a *revision cover letter* (one-page, single spaced), in which you will be asked to elaborate on how the revision has addressed and incorporated the feedback.
 
 If you decide to revise your first case discussion, you must turn in the revised version, along with the cover letter, by **the last day of class, January 9, 2024**. Note that if you turn in your first case discussion too close to that deadline, I may not have the chance to provide feedback in time for you to submit a revision in the first place.
 
