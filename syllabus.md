@@ -190,7 +190,7 @@ Students are encouraged to share intellectual views and discuss freely the princ
 
 **I view plagiarism as a *very* serious violation of the university’s Code of Academic Integrity, and you should as well.** I strongly encourage you to review this helpful guide prepared by the university library: <https://new.library.arizona.edu/research/citing/plagiarism>. I understand different instructors may draw the line somewhat differently; if you have any questions about what constitutes plagiarism for the purposes of our course, please don’t hesitate to ask me.
 
-# Use of Generative AI Tools
+### Use of Generative AI Tools
 
 I consider it an important component of digital literacy that students appreciate the strengths as well as limitations of generative artificial intelligence (AI) tools such as ChatGPT.
 
