@@ -10,7 +10,7 @@ NB: This chronology has been a work-in-progress. Please let me know if you spot 
 
 ### 1920
 
-- **19th Amendment ratified by three-fourths of the States**
+- **19th Amendment ratified by three-fourths of the states**
 
 ### 1923
 
