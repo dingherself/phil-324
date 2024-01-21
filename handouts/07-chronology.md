@@ -83,6 +83,7 @@ NB: This chronology has been a work-in-progress. Please let me know if you spot 
 
 ### 1964
 
+- Gulf of Tonkin incident – the draft & anti-war movement
 - **Civil Rights Act of 1964** (Title VII prohibits employment discrimination because of race, color, religion, sex, and national origin)
 
 ### 1965
@@ -189,7 +190,7 @@ NB: This chronology has been a work-in-progress. Please let me know if you spot 
 
 - Then Rutgers law professor Ruth Bader Ginsburg helped ACLU secure a historic victory in ***Reed v. Reed*** (holding that a state law mandating preference for males over females for appointment as administrator of an estate violates the Equal Protection Clause), marking the first time the U.S. Supreme Court had struck down a statute on the grounds that it was sex discriminatory
 
-- Judith Jarvis Thomson’s now-classic “A Defense of Abortion” appeared in the first issue of *Philosophy and Public Affairs*
+- Judith Jarvis Thomson’s “A Defense of Abortion” appeared in the first issue of *Philosophy and Public Affairs*
 
 - *New York Times* began publishing the Pentagon Papers; soon, the federal government successfully sought an injunction in federal court to prevent the *Times* from continuing to publish the Papers; the baton was then picked up by *Washington Post*, and so the government once again sought, albeit without success in the lower courts this time, an injunction against the *Post*; within days, both cases were before the U.S. Supreme Court; in an extraordinary proceeding, the Court vacated the injunction in *New York Times v. United States* and affirmed the denial of injunction in *United States v. Washington Post*
 
